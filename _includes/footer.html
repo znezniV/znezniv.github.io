@@ -1,12 +1,13 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
+  {% comment %}
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
+  {% endcomment %}
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
+        {% comment %}
           <li>
             {% if site.author %}
               {{ site.author | escape }}
@@ -14,9 +15,11 @@
               {{ site.title | escape }}
             {% endif %}
             </li>
+            
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
+            {% endcomment %}
         </ul>
       </div>
 
