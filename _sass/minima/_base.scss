@@ -104,6 +104,9 @@ a {
   }
 }
 
+*::selection {
+  background-color: $grey-color-white;
+}
 
 
 /**
