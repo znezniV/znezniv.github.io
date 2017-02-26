@@ -6,7 +6,7 @@ categories: ZHdK Blog
 permalink: Zoetrope-Design-Methodology
 desc: Zoetrope design process during the digital fabrication module of interaction design at Zurich University of Arts
 ---
-## Intro
+
 At the very end of the first semester in my Interaction Design study we had a module called "digital fabrication". The Goal of the model was to get to know various digital fabrication methods  such as 3D printing, CNC machine and laser cutter together with graphic software.
 
 The given end result of the course was a zoetrope as a group work based on given natural objects. Our group decided to focus on crystals.

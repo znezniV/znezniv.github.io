@@ -252,7 +252,7 @@ h2 {
     bottom: 0;
     left: 0;
     z-index: -1;
-    height: 16px;
+    height: 8px;
     background-color: $grey-color-light;
     width: 0;
   }
@@ -278,7 +278,7 @@ h2 {
 
     .title-post::before {
       //width: 184px;
-      width: 90%
+      width: 64px
     }
   }
 }
