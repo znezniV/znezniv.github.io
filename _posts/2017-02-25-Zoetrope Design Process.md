@@ -12,6 +12,7 @@ At the very end of the first semester in my Interaction Design study we had a mo
 The given end result of the course was a zoetrope as a group work based on given natural objects. Our group decided to focus on crystals.
 
 ## Project Process
+![Very bad image of the process]({{ site.url }}/assets/posts/zoetrope/veryBadImages.JPG)
 Looking back, our process was structured in the following way:
 
 1. Brainstorming
