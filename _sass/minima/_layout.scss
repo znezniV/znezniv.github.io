@@ -51,39 +51,39 @@
     border-radius: 5px;
     text-align: right;
 
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
+    // .menu-icon {
+    //   display: block;
+    //   float: right;
+    //   width: 36px;
+    //   height: 26px;
+    //   line-height: 0;
+    //   padding-top: 10px;
+    //   text-align: center;
 
-      > svg path {
-        fill: $grey-color-dark;
-      }
-    }
+    //   > svg path {
+    //     fill: $grey-color-dark;
+    //   }
+    // }
 
-    .trigger {
-      clear: both;
-      display: none;
-    }
+    // .trigger {
+    //   clear: both;
+    //   display: none;
+    // }
 
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
+    // &:hover .trigger {
+    //   display: block;
+    //   padding-bottom: 5px;
+    // }
 
-    .page-link {
-      display: block;
-      padding: 5px 10px;
+    // .page-link {
+    //   display: block;
+    //   padding: 5px 10px;
 
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
-    }
+    //   &:not(:last-child) {
+    //     margin-right: 0;
+    //   }
+    //   margin-left: 20px;
+    // }
   }
 }
 
@@ -175,9 +175,9 @@ h2 {
     line-height: 56px;
     margin-bottom: 13px;
 
-    @include media-query($on-laptop) {
-      font-size: 28px;
-    }
+    // @include media-query($on-laptop) {
+    //   font-size: 28px;
+    // }
   }
 
   h3 {
@@ -185,9 +185,9 @@ h2 {
     line-height: 40px;
     margin-bottom: 9px;
 
-    @include media-query($on-laptop) {
-      font-size: 22px;
-    }
+    // @include media-query($on-laptop) {
+    //   font-size: 22px;
+    // }
   }
 
   h4 {
@@ -195,18 +195,18 @@ h2 {
     font-weight: bold;
     margin-bottom: 0;
 
-    @include media-query($on-laptop) {
-      font-size: 18px;
-    }
+    // @include media-query($on-laptop) {
+    //   font-size: 18px;
+    // }
   }
 
   h5 {
     font-size: $base-font-size;
     margin-bottom: 0;
 
-    @include media-query($on-laptop) {
-      font-size: 18px;
-    }
+    // @include media-query($on-laptop) {
+    //   font-size: 18px;
+    // }
   }
 
   .font-caption {
@@ -302,9 +302,9 @@ h2 {
   letter-spacing: -1px;
   line-height: 64px;
 
-  @include media-query($on-laptop) {
-    font-size: 36px;
-  }
+  // @include media-query($on-laptop) {
+  //   font-size: 36px;
+  // }
 }
 
 .post-content {
