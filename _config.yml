@@ -31,3 +31,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - node_modules
+  - gulpfile.js
