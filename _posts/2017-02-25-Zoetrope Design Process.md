@@ -73,5 +73,3 @@ The third one shows our initial ideas of crystals which you can place on an obje
 
 ## Conclusion
 The end results are looking quit nice. But it was a lot of distraction and loss of quality and creativity caused by our messy methodology. 
-But what is most important: We learned such a lot about digital fabrication and 3D software but also about how to work on a design project which is the actual reward.
-<a href="https://facebook.com/znezniV">Vinzenz</a>

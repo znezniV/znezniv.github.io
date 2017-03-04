@@ -272,6 +272,7 @@ h2 {
 
 .post-link {
   display: block;
+  color: $text-color;
 
   &:hover {
     text-decoration: none;
@@ -280,6 +281,10 @@ h2 {
       //width: 184px;
       width: 64px
     }
+  }
+
+  &:visited {
+    color: $text-color;
   }
 }
 
