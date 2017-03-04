@@ -5,31 +5,16 @@
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
   {% endcomment %}
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-1 font-caption">
         <ul class="contact-list">
-        {% comment %}
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-            {% endcomment %}
+            <p>{{ site.description | escape }}</p>
+          </li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list font-caption">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
           {% if site.twitter_username %}
           <li>
@@ -37,10 +22,6 @@
           </li>
           {% endif %}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-3 font-caption">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
