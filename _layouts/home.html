@@ -18,7 +18,7 @@ layout: default
           {% if post.desc %}
             <p class="post-desc"> {{post.desc | escape }}</p>
           {% endif %}
-          <span class="font-caption">{{ post.date | date: "%-d. %b %Y" }}</span>
+          <span class="font-caption">{{ post.date | date: "%-d. %B %Y" }}</span>
         </li>
       </a>
     {% endfor %}
