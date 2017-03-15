@@ -3,7 +3,7 @@ layout: post
 title:  Three Human Computer Interaction Methods
 date:   2017-03-15 14:21:56 +0100
 categories: ZHdK Blog
-permalink: Three Human Computer Methods
+permalink: Three-Human-Computer-Methods
 desc: Handout for a presenation about Human Computer Interaction Methods
 ---
 
