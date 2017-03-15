@@ -26,7 +26,9 @@ Most of the design methods we've seen in the book of the second week (Dubberly, 
 As mentioned before, video can include lots of information you can't easily put into a written documentation. In my opinion, written documentations often were interpreted by the author. In a video, it is more open to exploring new requirements "by accident" because not all the information is displayed in a video is intended. Therefore, it's very useful to get more used to the problem and the context.
 
 In the text (Buur, Jacob.2010.Ethnographic Video as Design Specs.SPIRE Research Centre.Sønderborg), they made a workshop with people from different views to gather ideas to design an electronic system of a de-mining project in Angola. It's a good method to be very close to the users without the possibility to meet them or as preparation for meeting them.
+
 ### Method Process
+
 #### Preparation
 First, of course, you have to gather video content. It's best practice to have videos right from the place you're designing for. In the text, they did not have videos from the actual de-mining project but they took videos from a similar de-mining program in Congo.
 
@@ -39,6 +41,7 @@ Approaches have also been developed to include 'social aspects of work’ (Ville
 They defined the requirements (in a second session after the visit in Angola) and prioritized them into must-have, should-have, or could-have requirement. They used a video wall and mapped the requirements to an appropriate looping video. This made the discussion more straight forward because it wasn't necessary to explain the requirement in a detailed way as if it was written or even more abstract.
 
 ### Pros and Cons
+
 #### Pros
 - Provides context in an easy way
 - Contact to users is not always necessary
@@ -71,10 +74,12 @@ The template of Brenda Laurel includes following points:
 12. Summary
 
 ### Pros & Cons
+
 #### Pros
 - You can communicate ideas faster
 - Fast feedback of stakeholders
 - Fast evaluation of brainstorming ideas
+
 #### Cons
 - Is not very detailed design research
 
@@ -87,17 +92,23 @@ As interaction design it could be used to
 (2) validate ideas and 
 (3) prototype. 
 Bodystorming shouldn't exclude other methods, rather it should be used in a combination with others.
+
 ### Method Process
+
 #### Preparation
 First of all, it is important to do preparation before you start body storm. The team in the reading prepared themselves by phrasing design questions (through preliminary observation and inherent data) and a detailed explanation of the question to prove/answer through bodystorming. A design question should easily describe a problem that occurred.
+
 #### Doing Bodystorming
 In the article, they took ten participants (with different ages) and did three different bodystorms. In the first approach they went to the original environment, in the second and third they went to a very likely one and in the fourth, they staged it in an office. The first three cases they observed the actual users and sought for problems of them.
 After the actual bodystorm, participants wrote down solutions to the problems that occurred and discussed them.
+
 ### Pros & Cons
+
 #### Pros
 - Provides effortlessly context about the problem
 - Less imagination for the context creates more focus on observation
 - Immediate feedback
+
 #### Cons
 - Documentation takes a lot of time
 - Staging is hard to keep being serious
