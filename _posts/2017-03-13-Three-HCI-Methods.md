@@ -69,6 +69,7 @@ The template of Brenda Laurel includes following points:
 10. Expansion–Whatelseispossible? 
 11. Nextstepsindesignprocess
 12. Summary
+
 ### Pros & Cons
 #### Pros
 - You can communicate ideas faster
@@ -76,6 +77,7 @@ The template of Brenda Laurel includes following points:
 - Fast evaluation of brainstorming ideas
 #### Cons
 - Is not very detailed design research
+
 ## Bodystorming
 Bodystorming is very similar to brainstorming. The difference is, that you are physically in the actual (or similar or stages) environment you are designing for. In this circumstances you can either observe users, test prototypes you make ad-hoc or validate ideas through staging "in the wild". Compared to traditional brainstorming, there's often time immediate feedback. The goal in the article "Understanding contexts by being there" (Oulasvirta, Antti/Kurvinen, Esko/Kankainen, Tomi.2003.Understanding contexts by being there: case studies in bodystorming.Springer-Verlag.London) is to "providing useful services without disturbing the natural flow of human activities." (Oulasvirta, Antti/Kurvinen, Esko/Kankainen, Tomi.2003). So they not only used it to do field research, but also to find and evaluate ideas for solutions. They assume, the more the environment is likely to the actual environment, the better the result will be.
 
