@@ -109,7 +109,7 @@ After the actual bodystorm, participants wrote down solutions to the problems th
 - Less imagination for the context creates more focus on observation
 - Immediate feedback
 
-#### Cons
+ #### Cons
 - Documentation takes a lot of time
 - Staging is hard to keep being serious
 

@@ -330,4 +330,17 @@ h2 {
     margin-bottom: 8px;
   }
 
+  a {
+    border-bottom: 1px solid $link-color;
+
+    &:hover {
+      border: 0;
+    }
+
+    // &:after {
+    //   content: ">";
+    //   margin-left: 3px;
+    // }
+  }
+
 }
