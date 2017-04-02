@@ -7,8 +7,6 @@ permalink: Would-you-work-with-planned-obsolescence
 desc: Planned obsolescence and what designers should consider
 ---
 
-
-# Would you work with planned obsolescence?
 This week Shaën made a good presentation about planned obsolescence and zombie media. After her presentation, she asked the class if we would work in a company which practices planned obsolescence in their products. The more things get complex, the more we can't understand or repair the broken things, the more power the product producers have. Things we don't understand what happens inside are black boxes. But also something we're not able to repair by ourselves (i.e. a CPU) are likely a black box. It was hard for me to answer that. Would I reject a job in a large tech company as i.e. Apple? How much would I weigh these principles if I really have to choose?
 
 ## Planed obsolescence in history
