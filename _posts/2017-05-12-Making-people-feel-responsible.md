@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Being dependent
+title:  Making people feel responsible
 date:   2017-05-12 14:21:56 +0100
 categories: ZHdK Blog
 permalink: Making-people-feel-responsible
