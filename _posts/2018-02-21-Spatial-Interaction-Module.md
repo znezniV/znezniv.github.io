@@ -11,12 +11,14 @@ This post is a journal for the module "Spacial Interaction" at Zurich University
 
 Together with BirdLife Switzerland Students of our course are working together in groups with the aim to create an interactive exhibition about bird songs.
 
-## 21.02.2018 Wednesday – Visiting BirdLife
+## 21.02 Wednesday – Visiting BirdLife
 Today, our class met each other in the morning to visit BirdLife in Riedt bei Neerach where Switzerland's second largest bird reservation is located in a marsh. However, compared to other countries it is reasonably small, only about one square kilometer. 
+![The mesh of BirdLife in Riedt bei Neerach ]({{ site.url }}/assets/posts/spatial-interaction/mesh.jpg)
 
 The BirdLife center offers an exhibition space, wooden paths in the marsh and huts to hide and observe the birds. Even the path to the huts is covered so the birds don't get startled. Everything is made that the nature and the birds won't be disturbed to much by people by also keeping it possible to watch them.
 
 The huts to observe the birds are rather small, contain three benches and folded horizontal window slots which should be opened slowly and carefully to not startle the birds. But done right, the birds won't notice their observers. Equipped with binoculars, their is a view on the pond, the shore on the other side and some small (probably artificial) islands for the birds. Unfortunately, besides ducks there wasn't a lot to see at this day but it was very interesting anyways. And I like ducks.
+![Windows slots ]({{ site.url }}/assets/posts/spatial-interaction/window-slots.jpg)
 
 Afterwords, we were able to take a look at the exhibition space and ask some questions to our partner of the project. This will help us a lot in the further project and for an exhibition it is crucial to know the environment we are working for.
 
