@@ -47,4 +47,4 @@ So then, we split up in two groups sitting in pairs in front of each other and c
 After a short time we had many new ideas, chose one we were the most interested and split up into groups we will continue the next week. 
 ![No ideas there]({{ site.url }}/assets/posts/spatial-interaction/empty-papers.jpg)
 ![Many ideas here]({{ site.url }}/assets/posts/spatial-interaction/filled-papers.jpg)
-![Jerome ready for the project]({{ site.url }}/assets/posts/spatial-interaction/jerome-ready.jpg)
+![Jerome ready for the project]({{ site.url }}/assets/posts/spatial-interaction/ready-jerome.jpg)
