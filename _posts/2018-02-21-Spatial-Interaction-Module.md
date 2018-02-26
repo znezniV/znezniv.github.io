@@ -35,3 +35,16 @@ We then continued in the Masuala Hall, which is a huge tropical building filled 
 ![Bird in the Snow]({{ site.url }}/assets/posts/spatial-interaction/bird-in-snow.jpg)
 
 However, it was way harder to discover and distinguish the different birds from the call since the place was much bigger and way noisier. Also, when we asked visitors about their impression with the bird songs they were aware that the sounds were here but they could not make sense out of them.
+
+## 23.02 Friday – Brainstorming
+
+This day, we first had tech-input about mapping with a projector were we learned to map with processing but also with Resolume Arena 6. It was very interesting and could help us to realize our projects.
+
+However, we first had to figure out the actual project to work on the following weeks. To get many great ideas in short amount of time, our mentors prepared a morphologic raster with fields of birdsong topics and interaction design topics.
+
+So then, we split up in two groups sitting in pairs in front of each other and continued with brainstorm speed dating were after three minutes we had to cycle through the rows and change our brainstorm partners.
+
+After a short time we had many new ideas, chose one we were the most interested and split up into groups we will continue the next week. 
+![No ideas there]({{ site.url }}/assets/posts/spatial-interaction/empty-papers.jpg)
+![Many ideas here]({{ site.url }}/assets/posts/spatial-interaction/filled-papers.jpg)
+![Jerome ready for the project]({{ site.url }}/assets/posts/spatial-interaction/jerome-ready.jpg)
