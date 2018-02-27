@@ -48,3 +48,30 @@ After a short time we had many new ideas, chose one we were the most interested 
 ![No ideas there]({{ site.url }}/assets/posts/spatial-interaction/empty-papers.jpg)
 ![Many ideas here]({{ site.url }}/assets/posts/spatial-interaction/filled-papers.jpg)
 ![Jerome ready for the project]({{ site.url }}/assets/posts/spatial-interaction/ready-jerome.jpg)
+
+## 27.02 Tuesday – Getting Deeper
+After the weekend and theory Monday, we sat together in the group to deepen our concept about our project.
+Of course, we already had the idea in mind form the brainstorm speed dating. But we still wanted to discuss openly other ideas and how we felt about the initial idea. So, to start with we discussed what is important for us, what we want to focus on and — since we are very privileged in this school — what would be most fun for us to work on. Since the final project should be displayed in a exhibition, we wanted to give at least a little value to the project in sense to be a little educative but also not to close to traditional education "fun" software we knew from our childhood. Also, our project partner of BirdLife said that for them it would be the most valuable to get people into the fascination of birds.
+![Cute people discussing]({{ site.url }}/assets/posts/spatial-interaction/discussion-initial-idea.jpg)
+![Description of Initial Concept]({{ site.url }}/assets/posts/spatial-interaction/initial-concept.jpg)
+
+After discussing some other interesting ideas, we came back to our initial idea, a game of the male nightingale, which try to expand and defend their territory and attract females.
+We talked about the real basic properties of the game but also about some more detailed technical things.
+
+### Game Concept Idea
+The game should be a multiplayer on an interactive table where visitors are able to act as the male nightingale and compete against each other to grown and defend their territories. There we thought about to create a table with a transparent plate to that display a projection from the bottom. Each player owns a block which they can place on the table and their projected bird follows it in a few seconds of flying. The tables is divided into small parts of territories they have to occupy or steal from other birds by flying there first and solving a short riddle about bird songs. The bird that has the biggest territory (either after time or reaching an amount of "points") wins. Rival birds can be fend off by flying into the part of their own they are going to lose.
+Of course, the riddles should related to bird songs and could be solved by listening, whistling or just entering input by hand.
+![Initial Sketch of the Table]({{ site.url }}/assets/posts/spatial-interaction/sketch-table-initial.jpg)  
+
+#### Technical View
+##### Table
+As mentioned, we thought of a table that is able to display a projection from a projector located below the table. The controller could be a block with a fiducial code attached to the bottom where a camera can track their position below, also located below the table.
+![Ideas how to divide the map]({{ site.url }}/assets/posts/spatial-interaction/sketch-map-division.jpg)  
+
+##### Block
+If possible and if we want to work with rich input such as whistling and sound, the bricks should include a microphone and speakers so all is in a small individual device. By hand interactions like turning, more graphical input could be controlled.
+
+##### Map
+The map should contain random points of the center of the parts of the territories which then can be divided with a Voronoi algorithm.
+
+We are aware that this probably is to much to do. But the next they we have the chance to ask our mentors about their opinion. Not just technically but also conceptually through their experience. Maybe we are especially lucky and there are easy ways to solve that.
