@@ -1,4 +1,4 @@
-/**
+f/**
  * Site header
  */
 .site-header {
@@ -201,6 +201,7 @@ h2 {
   h5 {
     font-size: $base-font-size;
     margin-bottom: 0;
+    text-decoration: underline;
 
     // @include media-query($on-laptop) {
     //   font-size: 18px;
