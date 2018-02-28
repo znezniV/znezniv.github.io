@@ -75,3 +75,40 @@ If possible and if we want to work with rich input such as whistling and sound, 
 The map should contain random points of the center of the parts of the territories which then can be divided with a Voronoi algorithm.
 
 We are aware that this probably is to much to do. But the next they we have the chance to ask our mentors about their opinion. Not just technically but also conceptually through their experience. Maybe we are especially lucky and there are easy ways to solve that.
+
+## 28.02 Wednesday – Mentoring and Early Game Concept
+This morning we had a the chance to get a mentoring from our docents. Our main questions were what they would suggest as a success measuring in the game, if they form their experience think it would be realistic to do it technically and of course what their overall opinion to the idea is.
+
+### Mentoring
+They were quite happy with our idea and reminded us that until the end of the module we don't have to be finished but rather have somehow working prototype. Also, they kept us realistic that if we work on a game, the first version probably will a bit boring and will need some refinement. But at the same time we should spend all the time in only perfecting the game concept in this module. At the end of the five weeks, it should be possible to present the potential of our idea.
+Also they helped us by highlighting the interesting aspects of the nightingale and their territory "fight". It's in particular interesting that they look for the territory in morning dawn and that other than other animals the males don't fight for their territory by smashing their head against each other but by singing.
+![Eary Game Concept]({{ site.url }}/assets/posts/spatial-interaction/sketch-game-concept.jpg)
+
+### Game Concept
+So, back on our work we first discussed how we wanted to continue with our project. After the lunch we first did some research on some scientific facts about the territorial nightingale singing to refine a story we wanted to tell inside the game. Also we did some research on other existing games.
+![Dogs vs. Cats]({{ site.url }}/assets/posts/spatial-interaction/research-existing-games.jpg)
+
+So we wrote a short abstract of the story of the game and also a brief rule description. We plan to refine and expand these rules after prototyping together in the following day. 
+
+#### Connection to Reality
+
+##### Morning Dawn
+The game starts to conquer new or defend pre-establishment territories.
+
+##### Sunrise
+(Game duration is limited from morning dawn until sunrise)
+The game will be "won" if one birds territory is the biggest when the game is finished. The leading player will be marked with a fictional female nightingale to add strategic extra layer.
+
+##### Night
+(The day fast-forwarded until the night)
+The winning bird successfully expanded his territory and sings until the female flies to him.
+
+### Preparing For the Next Day 
+Since we had some time left, we wrote down what we want to achieve the next day. 
+
+Of course, first in the morning we have to participate the tech-input. Later we want to paper-prototype the game to refine and expand rules for the games. Therefore, we already prepared some questions we want to answer.
+
+For Friday we then have to prepare a short presentation as well.
+
+
+
