@@ -11,7 +11,7 @@ This post is a journal for the module "Spacial Interaction" at Zurich University
 
 Together with BirdLife Switzerland Students of our course are working together in groups with the aim to create an interactive exhibition about bird songs.
 
-## 21.02 Wednesday – Visiting BirdLife
+## 21.02. Wednesday – Visiting BirdLife
 Today, our class met each other in the morning to visit BirdLife in Riedt bei Neerach where Switzerland's second largest bird reservation is located in a marsh. However, compared to other countries it is reasonably small, only about one square kilometer. 
 ![The mesh of BirdLife in Riedt bei Neerach ]({{ site.url }}/assets/posts/spatial-interaction/mesh.jpg)
 
@@ -25,7 +25,7 @@ Afterwords, we were able to take a look at the exhibition space and ask some que
 At the end and after a short food and coffee break (which was very friendly form BirdLife), we were able to listen to a presentation about the nightingale of Valentin Amrhein, a researcher of this bird. It was highly interesting to hear about his research. He and his team observed the behavior of nightingales, how they mate and build their territory. All this is connected with the singing of the males. They attract the females with a total amount around 200 different songs and mark their territory which they keep for their whole life. Also males are very active during the night and in the morning dawn. There are theories why especially in the morning dawn but still no real evidences.
 Also, the presentation contained how researchers, analyze songs and calls, how birds generate sounds, why some species learn songs of other species and why they even sing and call in general. Very interesting.
 
-## 22.02 Tuesday – Zoo of Zurich
+## 22.02. Tuesday – Zoo of Zurich
 This day started very exciting when we met in the morning to go to the Zoo of Zurich. 
 
 First of all we visited the room with tropical birds which was more or less an open room with filled with tropical plants. We were able to see various birds singing or doing calls. The great thing was that we had two experts with us which could explain us some more about the birds. They explained us that there are birds which are constantly communicating with other birds of their species and others that are just more about singing not that regularly. They also told us that usually birds are waiting for other species to finish before the call or sing which was very fascinating for me.
@@ -36,7 +36,7 @@ We then continued in the Masuala Hall, which is a huge tropical building filled 
 
 However, it was way harder to discover and distinguish the different birds from the call since the place was much bigger and way noisier. Also, when we asked visitors about their impression with the bird songs they were aware that the sounds were here but they could not make sense out of them.
 
-## 23.02 Friday – Brainstorming
+## 23.02. Friday – Brainstorming
 
 This day, we first had tech-input about mapping with a projector were we learned to map with processing but also with Resolume Arena 6. It was very interesting and could help us to realize our projects.
 
@@ -49,7 +49,7 @@ After a short time we had many new ideas, chose one we were the most interested 
 ![Many ideas here]({{ site.url }}/assets/posts/spatial-interaction/filled-papers.jpg)
 ![Jerome ready for the project]({{ site.url }}/assets/posts/spatial-interaction/ready-jerome.jpg)
 
-## 27.02 Tuesday – Getting Deeper
+## 27.02. Tuesday – Getting Deeper
 After the weekend and theory Monday, we sat together in the group to deepen our concept about our project.
 Of course, we already had the idea in mind form the brainstorm speed dating. But we still wanted to discuss openly other ideas and how we felt about the initial idea. So, to start with we discussed what is important for us, what we want to focus on and — since we are very privileged in this school — what would be most fun for us to work on. Since the final project should be displayed in a exhibition, we wanted to give at least a little value to the project in sense to be a little educative but also not to close to traditional education "fun" software we knew from our childhood. Also, our project partner of BirdLife said that for them it would be the most valuable to get people into the fascination of birds.
 ![Cute people discussing]({{ site.url }}/assets/posts/spatial-interaction/discussion-initial-idea.jpg)
@@ -76,7 +76,7 @@ The map should contain random points of the center of the parts of the territori
 
 We are aware that this probably is to much to do. But the next they we have the chance to ask our mentors about their opinion. Not just technically but also conceptually through their experience. Maybe we are especially lucky and there are easy ways to solve that.
 
-## 28.02 Wednesday – Mentoring and Early Game Concept
+## 28.02. Wednesday – Mentoring and Early Game Concept
 This morning we had a the chance to get a mentoring from our docents. Our main questions were what they would suggest as a success measuring in the game, if they form their experience think it would be realistic to do it technically and of course what their overall opinion to the idea is.
 
 ### Mentoring
@@ -109,6 +109,42 @@ Since we had some time left, we wrote down what we want to achieve the next day.
 Of course, first in the morning we have to participate the tech-input. Later we want to paper-prototype the game to refine and expand rules for the games. Therefore, we already prepared some questions we want to answer.
 
 For Friday we then have to prepare a short presentation as well.
+
+## 01.03. Thursday – Preparing for the Presentation
+In the morning we had a tech-input for MaxMSP with some synthesizers. The goal was to learn how we could synthesize the sounds of the birds and automate them.
+
+For the afternoon we mainly focused on preparing the presentation on the following morning. 
+Presentations are very practical because they also help us to nail down our ideas. Often ideas are very clear for us in our mind but if you have to explain it to somebody else in a very short time forces to consider small details.
+
+We knew that we wanted a block with a fiducial code on the bottom to be our controller. Also the game was mainly defined but the thing that we did not really define was how the short exercises in the game will be. So we brainstormed again.
+
+One idea to mimic a bird song with whistling into a microphone attached to the controller block. Another was to select from a pool of songs and then try to create new combinations with them at each tree the bird wanted to expand his territory. Our final idea was to create another version of "Simon Says" where you have to replay bird song sample combination which increase in difficulty. This was also the idea we then presented.
+
+![Block Controller]({{ site.url }}/assets/posts/spatial-interaction/sketch-block-controller.jpg)
+![Preparing Presenation]({{ site.url }}/assets/posts/spatial-interaction/preparing-presentation.jpg)
+
+## 02.03. Friday - Presentation and Blind Spot
+This day started right away with presentations of the whole class in front of our mentors and the people from BirdLife Switzerland. Also, a few interns joined the presentation.
+
+We were surprised that after our feedback there was almost no feedback from our audience what we did not define as a good sign. We were not sure if the concept was even clear, if people like it or not, which was a bit unexpected and disappointing. As a general feedback from Stephan of BirdLife was that our class was way to visual and should focus on the bird song itself.
+
+When then took the chance to get an individual feedback from our mentors. And this time, in our opinion, this was very successful. They enabled us to see a blind spot that we really kept really stick with that game idea which was not necessary at all. The idea to interact with the bird songs itself was very interesting alone. Also, a bit more exploratory way of explaining the territories instead of creating a full game. 
+This really helped us a lot and so we agreed on focusing on manipulating the manipulation of the bird songs with the block on the table.
+
+## 06.03. Tuesday - Continuing the Concept
+We first started to sit together and present each other the ideas we had thought of in the weekend. They actually fit very to each other.
+![Morning Meeting]({{ site.url }}/assets/posts/spatial-interaction/morning-brainstorm.jpg)
+
+We then noticed that it would help us a lot if we have something in our hands to prototype. And indeed it increased our discussion a lot.
+
+The first idea, was to have an exploratory way were one bird block was positioned on the table and some song particles placed  next to it which will be played randomly. The bird with the most blocks obviously is the one with the most complex song and therefore also more powerful in the territory fight.
+![First Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype1.jpg)
+ 
+In the second idea, we get rid of the bird block and only continued with the particles that could be stacked on each other. After that, we went to the interaction design lab to ask them for an technical idea to realize it.
+![Second Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype2.jpg)
+![Stack Prototype]({{ site.url }}/assets/posts/spatial-interaction/stack.jpg)
+
+In parallel to the prototype we contacted our expert Valentin Amrhein for help and if he has a collection of nightingale sounds. Another person in our group did some initial tests on a technical level to play around with the fiducial trackers and a webcam we borrowed from the lab.
 
 
 
