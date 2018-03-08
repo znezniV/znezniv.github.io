@@ -131,7 +131,7 @@ We were surprised that after our feedback there was almost no feedback from our 
 When then took the chance to get an individual feedback from our mentors. And this time, in our opinion, this was very successful. They enabled us to see a blind spot that we really kept really stick with that game idea which was not necessary at all. The idea to interact with the bird songs itself was very interesting alone. Also, a bit more exploratory way of explaining the territories instead of creating a full game. 
 This really helped us a lot and so we agreed on focusing on manipulating the manipulation of the bird songs with the block on the table.
 
-## 06.03. Tuesday - Continuing the Concept
+## 07.03. Tuesday - Continuing the Concept
 We first started to sit together and present each other the ideas we had thought of in the weekend. They actually fit very to each other.
 ![Morning Meeting]({{ site.url }}/assets/posts/spatial-interaction/morning-brainstorm.jpg)
 
@@ -146,5 +146,34 @@ In the second idea, we get rid of the bird block and only continued with the par
 
 In parallel to the prototype we contacted our expert Valentin Amrhein for help and if he has a collection of nightingale sounds. Another person in our group did some initial tests on a technical level to play around with the fiducial trackers and a webcam we borrowed from the lab.
 
+## 08.03. Wednesday - Continuing the Concept
+When we met today in the morning we sat together and started to discuss about the project.
+We quickly came to the conclusion that we were not happy with where it was going to and decided to develop further. We mainly wanted to shift the focus more on the songs itself. 
 
+We started to get the idea from discussion while drawing and then prototype a very dumb version just to make it possible to touch the elements, better communicate and faster realize what works or not in a very early stage.
 
+Our new idea was to make a puzzle game with the song. Therefore the users need to take parts of the song and fit it together. Each part is a block (with a fiducial at the bottom) which contains the audio of the sound will then be played from left to right (x-axis) to play the full song. The position of the block on the y-axis we imagined to be the pitch of the part. We were sure that we need to do more research on this and maybe rethink if it makes sense and if there's a way that probably is better connected to the nightingale topic.
+![Sketch Sequencer]({{ site.url }}/assets/posts/spatial-interaction/sketch-sequecer.jpg)
+![Editing Keyboard Mapping]({{ site.url }}/assets/posts/spatial-interaction/editing-keyboard-mapping.jpg)
+
+First we took advantage of the prototype during our discussions, tested it with ourself afterwards and finally on other persons.
+
+## 06.03. Thursday - Refining the Prototype 
+This day we started to think about the project individually while one person of our group started to figure out how to prototype with the fiducials which we did the whole week but never made it work. At the end it was the webcam that was somehow not working with the reactivision software which should be able to recognize the markers then. Another camera made its job and finally enabled us to work with technology we actually want to use.
+
+Before we were able to continue much further with the prototype we had a mentoring with our sound docent of the interaction design department. One of his critic was that he wasn't sure what the game should people tell which we could explain with the story we wrote beforehand. We want to show the life of a male nightingale and how his songs improves. Another thing, which we were also considerate was the categorization of the song parts which was a bit arbitrary. Our mentor suggested us to not spend to much time on thinking about it and just ask our nightingale specialist Valentin.
+
+In Valentins reply from our mail he suggested us to categorize into Alpha, Beta, Gamma and Omega sounds. It took us a while to find out what it means but a few DuckDuckGo search queries creates miracles. 
+
+##### Alpha
+Little Volume.
+##### Beta
+Louder, more complex patterns.
+##### Gamma
+Element repetition, more aggressive (trill).
+##### Omega
+A _not_ repeated element.
+
+On prototype side, the afternoon enabled us to attach the camera on a tripod, glue some fiducial codes on styrofoam blocks and add sounds on events when a fiducial disappears from the camera field in Processing. This will help us further in our following tests when we want to get deeper feedback on the interaction. If you grab a block now you will cover the code and so let Processing play a sound because the fiducial disappears. 
+
+![Prototyp Fiducial]({{ site.url }}/assets/posts/spatial-interaction/prototype-fiducial.jpg)
