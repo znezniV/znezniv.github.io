@@ -177,3 +177,27 @@ A _not_ repeated element.
 On prototype side, the afternoon enabled us to attach the camera on a tripod, glue some fiducial codes on styrofoam blocks and add sounds on events when a fiducial disappears from the camera field in Processing. This will help us further in our following tests when we want to get deeper feedback on the interaction. If you grab a block now you will cover the code and so let Processing play a sound because the fiducial disappears. 
 
 ![Prototyp Fiducial]({{ site.url }}/assets/posts/spatial-interaction/prototype-fiducial.jpg)
+
+## 09.03. Friday - Finalizing the Concept
+Friday was highly focused into finalizing the concept of the previous day. Especially about details.
+
+So again here, we split into a group that was focusing on the concept and one person that was working on the technical implementation for the prototype.
+
+The concept group started to bring down the concept to paper and start to draw initial sketches of the interface. Also here, the sketch contains a short explanation of the scientific theory behind the kind of puzzle. From left to right samples should be placed in chronological order and from top to bottom in the various categories of the nightingale songs (alpha, beta, gamma, omega). The users need to order the songs in correct order of the categories by listening to the samples but the order inside of the samples inside of the categories doesn't matter.
+
+In a further step we tried to align the story in our mind into levels of the life of a bird starting as a baby copying from their close environment, practice new songs in Africa in the winter, young male that wants to impress the females and as older mated nightingale that randomly sings and tries to defend his territory.
+
+Even first ideas were collected how a tutorial should be implemented to guide our users in a straight forward way.
+
+In the afternoon, finally the reactable arrived where want to project our visuals and place and track the blocks with the fiducials. The box is rather simple. A matt transparent plexiglass board on top, inside infrared lights directed to the inner side of the plexiglass, a camera with a filter that only let pass infrared light and a lot of space for the projector. Basically, the infrared light will be reflected from the top plexiglass only if the block with the fiducial is really on the glass because its matt. Also the distance from the fiducial to the camera is constantly perfect which makes it easy to track. 
+
+## 13.03. Tuesday - 
+We continued the fresh week with a little bit of planing for the week because time is running.
+
+The concept group continued to answer some new upcoming questions about the concept, defined screens needed to be designed, assembled mood boards and started to design screens that will be discussed and improved the next day. 
+
+We also decided that the tutorial and the first level need to be combined because it will provide a common theme in connection to the story.
+
+As well we had a mentoring in the afternoon were our mentors highlighted that we should not focus on developing a fully working game but rather show the potential and make a good, clear presentation about our idea.
+
+In parallel, we made big steps further with the technical prototype that blocks can be placed and validated from predefined fields. 
