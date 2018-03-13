@@ -184,10 +184,13 @@ Friday was highly focused into finalizing the concept of the previous day. Espec
 So again here, we split into a group that was focusing on the concept and one person that was working on the technical implementation for the prototype.
 
 The concept group started to bring down the concept to paper and start to draw initial sketches of the interface. Also here, the sketch contains a short explanation of the scientific theory behind the kind of puzzle. From left to right samples should be placed in chronological order and from top to bottom in the various categories of the nightingale songs (alpha, beta, gamma, omega). The users need to order the songs in correct order of the categories by listening to the samples but the order inside of the samples inside of the categories doesn't matter.
+![UI Sketch]({{ site.url }}/assets/posts/spatial-interaction/sketch-first-ui.jpg)
 
 In a further step we tried to align the story in our mind into levels of the life of a bird starting as a baby copying from their close environment, practice new songs in Africa in the winter, young male that wants to impress the females and as older mated nightingale that randomly sings and tries to defend his territory.
+![Notes Levels]({{ site.url }}/assets/posts/spatial-interaction/sketch-levels.jpg)
 
 Even first ideas were collected how a tutorial should be implemented to guide our users in a straight forward way.
+![Notes Tutorial]({{ site.url }}/assets/posts/spatial-interaction/notes-tutorial.jpg)
 
 In the afternoon, finally the reactable arrived where want to project our visuals and place and track the blocks with the fiducials. The box is rather simple. A matt transparent plexiglass board on top, inside infrared lights directed to the inner side of the plexiglass, a camera with a filter that only let pass infrared light and a lot of space for the projector. Basically, the infrared light will be reflected from the top plexiglass only if the block with the fiducial is really on the glass because its matt. Also the distance from the fiducial to the camera is constantly perfect which makes it easy to track. 
 
