@@ -214,6 +214,5 @@ We then recognized that it is crucial to get more context for which "screen" we'
 From there the projector should have projected on a mirror which then reflected on the inner surface of the table glass. The result was not satisfying at all and after some trials of changing the distance of the mirror to the projector lens, we and our lecturer Joël came to the idea to directly project on the glass. So we put the projector on the inner floor of the table and had a bit more satisfying result. We were very happy that it worked out in such a simple way and only had prevent it from falling down. Glue is the our best friend.
 
 Next to the hassle with the projector we finished the logic of the puzzle. Sometimes things that seem simple can be laborious as well. Thanks and shout out to Aurelian for having a listening ear and working brain to help to fix the code with one single command. For the next day we can focus a bit on easy maintenance and performance before continuing with graphics, level logic and sounds. Lot of work, lot of fun — hopefully. Thank you Aurelian in advance.
-![Puzzle]({{ site.url }}/assets/posts/spatial-interaction/puzzle-initial.mp4)
 
 As well we continued to work on the visuals for the levels and especially of the tutorial.
