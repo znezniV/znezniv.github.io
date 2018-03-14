@@ -204,3 +204,16 @@ We also decided that the tutorial and the first level need to be combined becaus
 As well we had a mentoring in the afternoon were our mentors highlighted that we should not focus on developing a fully working game but rather show the potential and make a good, clear presentation about our idea.
 
 In parallel, we made big steps further with the technical prototype that blocks can be placed and validated from predefined fields. 
+
+## 14.03. Wednesday - Starting With Production
+This day's focus was to finally start with the production.
+We started to look at the two screens we finished on the day before, discussed about the approaches and started to figure out things to improve. Especially, we had to give more consideration on the image that won't be that colorful and with a lot of contrast which makes it hard to display thin, light lines and text of course. But anyway a lot of text won't be great for our future users. We also decided that we want to have a shaded room that our users will be able to focus more on the bird sounds and the display will appear shining brighter.
+
+We then recognized that it is crucial to get more context for which "screen" we're designing for and need to test the projector as soon as possible on the surface. Looking back, this was more thought than expected. We were not sure how and where to attach the projector which a student of the older semester suggested us to use. So we had to ask our former lecturer Moritz Kemper for help how he did that. Kindly, he visited us for some minutes and explained how it works. So first disconnected a plate attached with some screws from the projector and drilled new holes into an aluminum mount which was screwed on a wall inside of the table.
+![Preparing to Drill holes]({{ site.url }}/assets/posts/spatial-interaction/drilling.jpg)
+From there the projector should have projected on a mirror which then reflected on the inner surface of the table glass. The result was not satisfying at all and after some trials of changing the distance of the mirror to the projector lens, we and our lecturer Joël came to the idea to directly project on the glass. So we put the projector on the inner floor of the table and had a bit more satisfying result. We were very happy that it worked out in such a simple way and only had prevent it from falling down. Glue is the our best friend.
+
+Next to the hassle with the projector we finished the logic of the puzzle. Sometimes things that seem simple can be laborious as well. Thanks and shout out to Aurelian for having a listening ear and working brain to help to fix the code with one single command. For the next day we can focus a bit on easy maintenance and performance before continuing with graphics, level logic and sounds. Lot of work, lot of fun — hopefully. Thank you Aurelian in advance.
+![Puzzle]({{ site.url }}/assets/posts/spatial-interaction/puzzle-initial.mp4)
+
+As well we continued to work on the visuals for the levels and especially of the tutorial.
