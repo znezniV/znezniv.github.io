@@ -216,3 +216,16 @@ From there the projector should have projected on a mirror which then reflected 
 Next to the hassle with the projector we finished the logic of the puzzle. Sometimes things that seem simple can be laborious as well. Thanks and shout out to Aurelian for having a listening ear and working brain to help to fix the code with one single command. For the next day we can focus a bit on easy maintenance and performance before continuing with graphics, level logic and sounds. Lot of work, lot of fun — hopefully. Thank you Aurelian in advance.
 
 As well we continued to work on the visuals for the levels and especially of the tutorial.
+
+## 15.03. Thursday - 
+We started into the new day with a quick planing of the day and reviewing the approaches for the interface. We quickly found things to improve and had some questions arise from our discussion. We also agreed that we need to check a further version on the projection itself which will give us way more context. 
+
+The quality of the projection was not really for our fastidious eyes which are accustomed to very dense pixel display which we daily use. The pixels are clearly visibly, the contrast is not that great and the distribution from the light of the projection is kind of uneven. But we probably have to live with that. 
+However, the experiment to display the interface on the projection helped us to address serval issues such as contrast, approximation/grouping of the elements, and readability of the text. But it also helped us to verify the size of the blocks we finally want to move.
+Also, we noticed that the sonogram we initially wanted to take place above the fields for the blocks was taking to much of very important space and does not really serve a purpose. User tests never verified that it helped anyone and at the same time we assumed (but never verified) that it could be a distraction from the sound.
+  
+As mentioned, in the last day we built a box to lift up the projector to get a smaller better fitting projection on the glass. Unfortunately, the box from the previous day was a little to high and so we had to make a smaller version from it to get the bigger image. 
+
+Later on we split op tasks into refining the interface, continue to code, organizing the exhibition space and preparing sounds samples. For the next day we had in mind that somebody will work on making nice looking blocks to move on our table.
+
+With a more or less accurate mapping and working code for the riddles we were able to play around with the table.
