@@ -217,7 +217,7 @@ Next to the hassle with the projector we finished the logic of the puzzle. Somet
 
 As well we continued to work on the visuals for the levels and especially of the tutorial.
 
-## 15.03. Thursday - 
+## 15.03. Thursday - Production II
 We started into the new day with a quick planing of the day and reviewing the approaches for the interface. We quickly found things to improve and had some questions arise from our discussion. We also agreed that we need to check a further version on the projection itself which will give us way more context. 
 
 The quality of the projection was not really for our fastidious eyes which are accustomed to very dense pixel display which we daily use. The pixels are clearly visibly, the contrast is not that great and the distribution from the light of the projection is kind of uneven. But we probably have to live with that. 
@@ -229,3 +229,31 @@ As mentioned, in the last day we built a box to lift up the projector to get a s
 Later on we split op tasks into refining the interface, continue to code, organizing the exhibition space and preparing sounds samples. For the next day we had in mind that somebody will work on making nice looking blocks to move on our table.
 
 With a more or less accurate mapping and working code for the riddles we were able to play around with the table.
+
+## 20.03. Tuesday - Production IV
+The last week and still a lot to do. Last week, we already split up the groups into different fields of responsibility, everything physical, software/digital development and visual design mainly focused on the interface.
+
+For the physical part, the big task was to built the blocks wich then will be moved on the table with the fiducial attached at the bottom. Requirements for the block were, that they fit on the table, not damage it and feel good in the hand of the exhibition visitors. Last week we decided to make them round because they fit way better in the hand but also it does not matter if you rotate the block to fit inside of the fields for each song snippet on the table. It just fits. Additionally to the generic feeling of wood, we wanted to give it some extra weight with a metal cylinder inside of the block. This not only makes the block feel more solid, it also assists the fit on the table and makes sure the printed fiducial is recognized properly. We tried different materials and processes and wat to finish by the next day.
+![Blocks Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype-blocks.jpg)
+
+For the visual part it was mainly the completion of all screens that could be displayed in future. Since our work will still be in a state of a prototype at the end, we will need to show that it will have potential in providing a view on the end product. 
+Besides the interface a small part of it took a lot of time, the animation. To reinforce the story of our bird, we planed to work on animations. Mostly a bird that is flying around.
+
+On the technically part, we started to enhance the mapping of the blocks which are recognized from the camera. Also, we made a functions that made it able to map sounds and fields, played the correct sample when lifted, validated if the block was on the correct field or not and played the full self arranged song when all blocks were placed correctly. There is still a long way to go but it is getting closer to the final idea.
+![Validation Function Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype-validation.jpg)
+
+## 21.03. Wednesday - Production V
+
+### Physical
+After we took decisions about how we wanted to build the blocks, we want into production. And as always this cost much more time than expected. But finally we finished all the elements we wanted to use.
+
+### Visual
+Finally, all the screens were done and we continued to work on the animation. Therefore we also took the presentation in consideration because we wanted to present directly on the table and technically it was not possible to code all the things and the tutorial for the prototype. So we decided to keep it as a slide that will be displayed a the prototype on the table before we switch to the actual prototype as a demo.
+
+### Technically
+Already yesterday, we recognized that the mapping of the blocks was not satisfying. Because of the fisheye sense of the camera inside of the box which recognizes the fiducial all the position of the blocks were shifted a bit. To fix that, our mentor Joël highlighted a paragraph in the reacTIVision documentation, that we need to calibrate the camera first before we continue to work. Therefore we needed to print a huge grid out of paper, place it on the top of the table so that the camera was able to see and then manually calibrate the fisheye away. And it worked so well.
+
+![ReacTIVision Calibration]({{ site.url }}/assets/posts/spatial-interaction/calibration.jpg)
+
+After that, we reminded the coalition detection of the field and the block. Later, we removed the projection of the block which helped us to identify were the recognized position of the block was. After a few unintended test of our pushy and impatient colleagues, we recognized that since we removed the visual guidance, there needs to be a feedback if the block was placed on the field. Quickly done we added states of "empty", "occupied", "correct" and "wrong" with a colored border around the field. The latter two where only displayed when all the fields where occupied by a block. So what also changed and was in our initial plan was that now the validation only happens when all the fields are occupied. Also, you only see the wrong fields but you need to find out where they should be placed which could be way more difficult whenever the visitors have more than two wrong snippets. This makes them listen more carefully again. 
+After implementing the final sounds, we added all the further static visuals so we can review, polish and finalize the prototype the next day.
