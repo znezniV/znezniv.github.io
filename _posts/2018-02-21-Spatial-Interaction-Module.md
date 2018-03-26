@@ -271,5 +271,9 @@ The presentation went very well and it was a lot of fun seeing all the other exc
 
 We gathered very valuable feedback and ideas from our classmates and mentors which we will definitely consider if we can continue with the project. 
 
+![Moving Block on Table]({{ site.url }}/assets/posts/spatial-interaction/presentation1.jpg)
+![Validation Wrong]({{ site.url }}/assets/posts/spatial-interaction/presentation2.jpg)
+![Validation Correct]({{ site.url }}/assets/posts/spatial-interaction/presentation3.jpg)
+
 ### Conclusion
 We very pretty happy with the project we did. It was quite simple but powerful at the same time. We learned a lot in every field. 
