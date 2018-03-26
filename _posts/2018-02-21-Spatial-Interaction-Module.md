@@ -51,41 +51,41 @@ After a short time, we had many new ideas, chose one we were the most interested
 
 ## 27.02. Tuesday – Getting Deeper
 After the weekend and theory Monday, we sat together in the group to deepen the concept of our project.
-Of course, we already had the idea in mind form the brainstorm speed dating. But we still wanted to discuss openly other ideas and how we felt about the initial idea. So, to start with we discussed what is important for us, what we want to focus on and — since we are very privileged in this school — what would be the most fun for us to work on. Since the final project should be displayed in an exhibition, we wanted to give at least a little value to the project in the sense to be a little educative but also not to close to traditional education "fun" software we knew from our childhood. Also, our project partner of BirdLife said that for them it would be the most valuable to get people into the fascination of birds.
+Of course, we already had the idea in mind from the brainstorm speed dating. But we still wanted to discuss openly other ideas and how we felt about the initial idea. So to start with, we discussed what is important for us, what we want to focus on and — since we are very privileged in this school — what would be the most fun for us to work on. Since the final project should be displayed in an exhibition, we wanted to give at least a little value to the project in the sense to be a little educative but also not to close to traditional education "fun" software we knew from our own childhood. Also, our project partner of BirdLife said that for them it would be the most important to get people into the fascination of birds.
 ![Cute people discussing]({{ site.url }}/assets/posts/spatial-interaction/discussion-initial-idea.jpg)
 ![Description of Initial Concept]({{ site.url }}/assets/posts/spatial-interaction/initial-concept.jpg)
 
 After discussing some other interesting ideas, we came back to our initial idea, a game of the male nightingale, which try to expand and defend their territory and attract females.
-We talked about the real basic properties of the game but also about some more detailed technical things.
+We talked about the real basic general properties of the game but also about some more detailed technical things.
 
 ### Game Concept Idea
-The game should be based on multiple players on an interactive table where visitors are able to act as the male nightingale and compete against each other to grow and defend their territories. There we thought about to create a table with a transparent plate to that display a projection from the bottom. Each player owns a block which they can place on the table and their projected bird follows it in a few seconds of flying. The table is divided into small parts of territories they have to occupy or steal from other birds by flying there first and solving a short riddle about bird songs. The bird that has the biggest territory (either after time or reaching an amount of "points") wins. Rival birds can fend off by flying into the part of their own they are going to lose.
+The game should be based on multiple players on an interactive table where visitors are able to act as the male nightingale and compete against each other to grow and defend their territories. Then we thought about to create a table with a transparent surface that displays a projection from the inner bottom of the table as we have seen it from reacTIVision projects. Each player owns a block which they can place on the table and their projected bird follows it in a few seconds of flying. The table is divided into small parts of territories which have to be occupied or stolen from other birds by flying there first and solving a short riddle about bird songs. The bird that has the biggest territory (either after a certain time or reaching an amount of "points") wins. Rival birds can fend off by flying into the part of their own they are going to lose.
 Of course, the riddles should relate to bird songs and could be solved by listening, whistling or just entering input by hand.
 ![Initial Sketch of the Table]({{ site.url }}/assets/posts/spatial-interaction/sketch-table-initial.jpg)  
 
 #### Technical View
 ##### Table
-As mentioned, we thought of a table that is able to display a projection from a projector located below the table. The controller could be a block with a fiducial code attached to the bottom where a camera can track their position below, also located below the table.
+As mentioned, we thought of a table that is able to display a projection from a projector located inside of the bottom of the table. The controller could be a block with a fiducial code attached to the bottom where a camera can track their position below, also located below the table.
 ![Ideas how to divide the map]({{ site.url }}/assets/posts/spatial-interaction/sketch-map-division.jpg)  
 
 ##### Block
-If possible and if we want to work with rich input such as whistling and sound, the bricks should include a microphone and speakers so all is in a small individual device. By hand interactions like turning, the more graphical input could be controlled.
+If possible and if we want to work with rich input such as whistling and sound, the bricks should include a microphone and speakers so everything is in a small individual device. By hand interactions like turning or moving graphical input could be controlled.
 
 ##### Map
-The map should contain random points of the center of the parts of the territories which then can be divided with a Voronoi algorithm.
+The map should contain random points of the center of the parts of the territories which could be divided with a Voronoi algorithm.
 
-We are aware that this probably is too much to do. But the next day, we have the chance to ask our mentors about their opinion. Not just technically but also conceptually through their experience. Maybe we are especially lucky and there are easy ways to solve that.
+We are aware that this probably is too much to do. But the next day, we have the chance to ask our mentors about their opinion. Not just technically but also conceptually through their experience. Maybe we are lucky and there are easy ways to solve that.
 
 ## 28.02. Wednesday – Mentoring and Early Game Concept
 This morning we had the chance to get a mentoring from our docents. Our main questions were what they would suggest as a success measuring in the game if they form their experience think it would be realistic to do it technically and of course what their overall opinion to the idea is.
 
 ### Mentoring
-They were quite happy with our idea and reminded us that until the end of the module we don't have to be finished but rather have somehow working prototype. Also, they kept us realistic that if we work on a game, the first version probably will a bit boring and will need some refinement. But at the same time, we should spend all the time in only perfecting the game concept in this module. At the end of the five weeks, it should be possible to present the potential of our idea.
+They were quite happy with our idea and reminded us that at the end of the module we don't have to be finished but rather have a somehow working prototype. Also, they kept us realistic that if we work on a game, the first version probably will a bit boring and need some refinement. But at the same time, we shouldn't spend all the time in only perfecting the game concept in this module. At the end of the five weeks, it should be possible to present the potential of our idea.
 Also, they helped us by highlighting the interesting aspects of the nightingale and their territory "fight". It's in particular interesting that they look for the territory in morning dawn and that other than other animals the males don't fight for their territory by smashing their head against each other but by singing.
 ![Eary Game Concept]({{ site.url }}/assets/posts/spatial-interaction/sketch-game-concept.jpg)
 
 ### Game Concept
-So, back on our work we first discussed how we wanted to continue with our project. After the lunch, we first did some research on some scientific facts about the territorial nightingale singing to refine a story we wanted to tell inside the game. Also, we did some research on other existing games.
+So, back on our work we first discussed how we wanted to continue with our project. After the lunch, we first did some research on scientific facts about the territorial nightingale singing to refine a story we wanted to tell in the game. Also, we did some research on other existing games.
 ![Dogs vs. Cats]({{ site.url }}/assets/posts/spatial-interaction/research-existing-games.jpg)
 
 So we wrote a short abstract of the story of the game and also a brief rule description. We plan to refine and expand these rules after prototyping together on the following day. 
@@ -114,7 +114,7 @@ For Friday we then have to prepare a short presentation as well.
 In the morning we had a tech-input for MaxMSP with some synthesizers. The goal was to learn how we could synthesize the sounds of the birds and automate them.
 
 For the afternoon we mainly focused on preparing the presentation on the following morning. 
-Presentations are very practical because they also help us to nail down our ideas. Often ideas are very clear for us in our mind but if you have to explain it to somebody else in a very short time forces to consider small details.
+Presentations are very practical because they also force us to nail down our ideas. Often ideas are very clear for us in our mind but if you have to explain it to somebody else in a very short time forces to consider even small details.
 
 We knew that we wanted a block with a fiducial code on the bottom to be our controller. Also, the game was mainly defined but the thing that we did not really define was how the short exercises in the game will be. So we brainstormed again.
 
@@ -124,12 +124,12 @@ One idea to mimic a bird song with whistling into a microphone attached to the c
 ![Preparing Presenation]({{ site.url }}/assets/posts/spatial-interaction/preparing-presentation.jpg)
 
 ## 02.03. Friday - Presentation and Blind Spot
-This day started right away with presentations of the whole class in front of our mentors and the people from BirdLife Switzerland. Also, a few interns joined the presentation.
+This day started right away with presentations in front of the whole class, our mentors and the people from BirdLife Switzerland. Also, a few interns joined the presentation.
 
-We were surprised that after our feedback there was almost no feedback from our audience what we did not define as a good sign. We were not sure if the concept was even clear if people like it or not, which was a bit unexpected and disappointing. As a general feedback from Stephan of BirdLife was that our class was way to visual and should focus on the birdsong itself.
+We were surprised that after our presentation there was almost no feedback from our audience what we did not define as a good sign. We were not sure if the concept was even clear if people like it or not, which was a bit unexpected and disappointing. As a general feedback from Stephan of BirdLife was that our class was way to visual and should focus more on the birdsong itself.
 
 We then took the chance to get an individual feedback from our mentors. And this time, in our opinion, this was very successful. They enabled us to see a blind spot that we really kept really stick with that game idea which was not necessary at all. The idea to interact with the bird songs itself was very interesting alone. Also, a bit more exploratory way of explaining the territories instead of creating a full game. 
-This really helped us a lot and so we agreed on focusing on manipulating the manipulation of the bird songs with the block on the table.
+This really helped us a lot and so we agreed on focusing on the manipulation of the bird songs with the block on the table.
 
 ## 06.03. Tuesday - Continuing the Concept
 We first started to sit together and present each other the ideas we had thought of over the weekend. They actually fit very to each other.
@@ -140,7 +140,7 @@ We then noticed that it would help us a lot if we have something in our hands to
 The first idea, was to have an exploratory way were one bird block was positioned on the table and some song particles placed next to it which will be played randomly. The bird with the most blocks obviously is the one with the most complex song and therefore also more powerful in the territory fight.
 ![First Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype1.jpg)
  
-In the second idea, we get rid of the bird block and only continued with the particles that could be stacked on each other. After that, we went to the interaction design lab to ask them for a technical idea to realize it.
+In the second idea, we and only continued with the particles that could be stacked on each other. After that, we went to the interaction design lab to ask them for a technical idea to realize it.
 ![Second Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype2.jpg)
 ![Stack Prototype]({{ site.url }}/assets/posts/spatial-interaction/stack.jpg)
 
@@ -183,7 +183,7 @@ Friday was highly focused on finalizing the concept of the previous day. Especia
 
 So again here, we split into a group that was focusing on the concept and one person that was working on the technical implementation of the prototype.
 
-The concept group started to bring down the concept to paper and start to draw initial sketches of the interface. Also here, the sketch contains a short explanation of the scientific theory behind the kind of puzzle. From left to right samples should be placed in chronological order and from top to bottom in the various categories of the nightingale songs (alpha, beta, gamma, omega). The users need to order the songs in correct order of the categories by listening to the samples but the order inside of the samples inside of the categories doesn't matter.
+The concept group started to bring down the concept to paper and start to draw initial sketches of the interface. Also here, the sketch contains a short explanation of the scientific theory behind the kind of puzzle. From left to right samples should be placed in chronological order and from top to bottom in the various categories of the nightingale songs (alpha, beta, gamma, omega). The users need to sort the songs in correct order of the categories by listening to the samples but the order inside of the samples inside of the categories doesn't matter.
 ![UI Sketch]({{ site.url }}/assets/posts/spatial-interaction/sketch-first-ui.jpg)
 
 In a further step we tried to align the story in our mind into levels of the life of a bird starting as a baby copying from their close environment, practice new songs in Africa in the winter, young male that wants to impress the females and as older mated nightingale that randomly sings and tries to defend his territory.
@@ -209,18 +209,18 @@ In parallel, we made big steps further with the technical prototype that blocks 
 This day's focus was to finally start with the production.
 We started to look at the two screens we finished on the day before, discussed the approaches and started to figure out things to improve. Especially, we had to give more consideration to the image that won't be that colorful and with a lot of contrast which makes it hard to display thin, light lines and text of course. But anyway a lot of text won't be great for our future users. We also decided that we want to have a shaded room that our users will be able to focus more on the bird sounds and the display will appear shining brighter.
 
-We then recognized that it is crucial to get more context for which "screen" we're designing for and need to test the projector as soon as possible on the surface. Looking back, this was more thought than expected. We were not sure how and where to attach the projector which a student of the older semester suggested us to use. So we had to ask our former lecturer Moritz Kemper for help how he did that. Kindly, he visited us for some minutes and explained how it works. So first disconnected a plate attached with some screws from the projector and drilled new holes into an aluminum mount which was screwed on a wall inside of the table.
+We then recognized that it is crucial to get more context for which "screen" we're designing for and need to test the projector as soon as possible on the surface. Looking back, this was tougher than expected. We were not sure how and where to attach the projector which a student of the older semester suggested us to use. So we had to ask our former lecturer Moritz Kemper for help how he did that. Kindly, he visited us for some minutes and explained how it works. So first disconnected a plate attached with some screws from the projector and drilled new holes into an aluminum mount which was screwed on a wall inside of the table.
 ![Preparing to Drill holes]({{ site.url }}/assets/posts/spatial-interaction/drilling.jpg)
 From there the projector should have projected on a mirror which then reflected on the inner surface of the table glass. The result was not satisfying at all and after some trials of changing the distance of the mirror to the projector lens, we and our lecturer Joël came to the idea to directly project on the glass. So we put the projector on the inner floor of the table and had a bit more satisfying result. We were very happy that it worked out in such a simple way and only had prevent it from falling down. Glue is our best friend.
 
-Next to the hassle with the projector, we finished the logic of the puzzle. Sometimes things that seem simple can be laborious as well. Thanks and shout out to Aurelian for having a listening ear and working brain to help to fix the code with one single command. For the next day, we can focus a bit on easy maintenance and performance before continuing with graphics, level logic, and sounds. A lot of work, a lot of fun — hopefully. Thank you, Aurelian, in advance.
+Next to the hassle with the projector, we finished the logic of the puzzle. Sometimes things that seem simple can be laborious as well. Thanks and shout out to Aurelian for having a listening ear and working brain to help to fix the code with a single break in the loop. For the next day, we can focus a bit on easy maintenance and performance before continuing with graphics, level logic, and sounds. A lot of work, a lot of fun — hopefully. Thank you, Aurelian, in advance.
 
 As well we continued to work on the visuals for the levels and especially of the tutorial.
 
 ## 15.03. Thursday - Production II
 We started the new day with a quick planning of the day and reviewing the approaches for the interface. We quickly found things to improve and had some questions arise from our discussion. We also agreed that we need to check a further version of the projection itself which will give us way more context. 
 
-The quality of the projection was not really for our fastidious eyes which are accustomed to very dense pixel display which we daily use. The pixels are clearly visible, the contrast is not that great and the distribution from the light of the projection is kind of uneven. But we probably have to live with that. 
+The quality of the projection was not really for our fastidious eyes which are accustomed to very dense pixel display which we use on a daily basis. The pixels are clearly visible, the contrast is not that strong and the distribution from the light of the projection is kind of uneven. But we probably have to live with that. 
 However, the experiment to display the interface on the projection helped us to address serval issues such as contrast, approximation/grouping of the elements, and readability of the text. But it also helped us to verify the size of the blocks we finally want to move.
 Also, we noticed that the sonogram we initially wanted to take place above the fields for the blocks was taking to much of very important space and does not really serve a purpose. User tests never verified that it helped anyone and at the same time we assumed (but never verified) that it could be a distraction from the sound.
   
@@ -231,13 +231,13 @@ Later on, we split up tasks into refining the interface, continue to code, organ
 With a more or less accurate mapping and working code for the riddles, we were able to play around with the table.
 
 ## 20.03. Tuesday - Production IV
-The last week and still a lot to do. Last week, we already split up the groups into different fields of responsibility, everything physical, software/digital development and visual design mainly focused on the interface.
+The last week and still a lot to do. Last week, we already split up the groups into different fields of responsibility, physical objects, software/digital development and visual design mainly focused on the interface.
 
-For the physical part, the big task was to build the blocks which then will be moved to the table with the fiducial attached at the bottom. Requirements for the block were, that they fit on the table, not damage it and feel good in the hand of the exhibition visitors. Last week we decided to make them round because they fit way better in the hand but also it does not matter if you rotate the block to fit inside of the fields for each song snippet on the table. It just fits. Additionally to the natural feeling of wood, we wanted to give it some extra weight with a metal cylinder inside of the block. This not only makes the block feel more solid, it also assists the fit on the table and makes sure the printed fiducial is recognized properly. We tried different materials and processes and wat to finish by the next day.
+For the physical part, the big task was to build the blocks which then will be moved to the table with the fiducial attached at the bottom. Requirements for the block were, that they fit on the table, not damage it and feel good in the hand of the exhibition visitors. Last week we decided to make them round because they fit way better in the hand but also it does not matter if you rotate the block to fit inside of the fields for each song snippet on the table. It just fits. Additionally to the natural feeling of wood, we wanted to give it some extra weight with a metal cylinder inside of the block. This not only makes the block feel more solid, it also assists the fit on the table and makes sure the printed fiducial code is recognized properly. We tried different materials and processes and wanted to finish by the next day.
 ![Blocks Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype-blocks.jpg)
 
 For the visual part, it was mainly the completion of all screens that could be displayed in future. Since our work will still be in a state of a prototype at the end, we will need to show that it will have potential in providing a view of the end product. 
-Besides the interface, a small part of it took a lot of time, the animation. To reinforce the story of our bird, we planned to work on animations. Mostly a bird that is flying around.
+Besides the interface, a small part of animations took a lot of time. To reinforce the story of our bird, we planned to work on animations, mostly a bird that is flying around.
 
 On the technically part, we started to enhance the mapping of the blocks which are recognized by the camera. Also, we made functions that made it able to map sounds and fields, played the correct sample when lifted, validated if the block was on the correct field or not and played the full self-arranged song when all blocks were placed correctly. There is still a long way to go but it is getting closer to the final idea.
 ![Validation Function Prototype]({{ site.url }}/assets/posts/spatial-interaction/prototype-validation.jpg)
@@ -255,5 +255,5 @@ Already yesterday, we recognized that the mapping of the blocks was not satisfyi
 
 ![ReacTIVision Calibration]({{ site.url }}/assets/posts/spatial-interaction/calibration.jpg)
 
-After that, we reminded the coalition detection of the field and the block. Later, we removed the projection of the block which helped us to identify were the recognized position of the block was. After a few unintended tests of our pushy and impatient colleagues, we recognized that since we removed the visual guidance, there needs to be a feedback if the block was placed on the field. Quickly done we added states of "empty", "occupied", "correct" and "wrong" with a colored border around the field. The latter two were only displayed when all the fields were occupied by a block. So what also changed and was in our initial plan was that now the validation only happens when all the fields are occupied. Also, you only see the wrong fields but you need to find out where they should be placed which could be way more difficult whenever the visitors have more than two wrong snippets. This makes them listen more carefully again. 
+After that, we reminded the collision detection of the field and the block. Later, we removed the projection of the block which helped us to identify were the recognized position of the block was. After a few unintended tests of our pushy and impatient colleagues, we recognized that since we removed the visual guidance, there needs to be a feedback if the block was placed on the field. Thanks to them! Quickly we added states of "empty", "occupied", "correct" and "wrong" with a colored border around the field. The latter two were only displayed when all the fields were occupied by a block. What also changed and was in our initial plan was that now the validation only happens when all the fields are occupied. Also, you only see the wrong fields but you need to find out where they should be placed which could be way more difficult whenever the visitors have more than two wrong snippets. This makes them listen more carefully again. 
 After implementing the final sounds, we added all the further static visuals so we can review, polish and finalize the prototype the next day.
