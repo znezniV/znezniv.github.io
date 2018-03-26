@@ -257,3 +257,19 @@ Already yesterday, we recognized that the mapping of the blocks was not satisfyi
 
 After that, we reminded the collision detection of the field and the block. Later, we removed the projection of the block which helped us to identify were the recognized position of the block was. After a few unintended tests of our pushy and impatient colleagues, we recognized that since we removed the visual guidance, there needs to be a feedback if the block was placed on the field. Thanks to them! Quickly we added states of "empty", "occupied", "correct" and "wrong" with a colored border around the field. The latter two were only displayed when all the fields were occupied by a block. What also changed and was in our initial plan was that now the validation only happens when all the fields are occupied. Also, you only see the wrong fields but you need to find out where they should be placed which could be way more difficult whenever the visitors have more than two wrong snippets. This makes them listen more carefully again. 
 After implementing the final sounds, we added all the further static visuals so we can review, polish and finalize the prototype the next day.
+
+## 22.03. Thursday - Preparing Presentation
+This journal entry is rather short because there were many small things to fix.
+First of all, we had to figure out how we wanted to make the presentation on the table. Since we got the information to only talk five minutes and give a five minutes demo, we decided to keep the explanation and process low and just start with the product itself in the tutorial. This part was not finished in the prototype so we faked it in Keynote. All videos, animations, and sounds will be played after acting like we were using the desk as a touchscreen.
+
+After building up in the exhibition room, we had a short breakdown because nothing of the tracking of the blocks was working. After some panic and discussion, we figured out that we just had to calibrate again. 
+
+## 22.03. Friday - Presentation & Conclusion
+We met early in the morning to practice our presentation to raise the quality of it and give a better impression of the project.
+
+The presentation went very well and it was a lot of fun seeing all the other exciting projects in our class.
+
+We gathered very valuable feedback and ideas from our classmates and mentors which we will definitely consider if we can continue with the project. 
+
+### Conclusion
+We very pretty happy with the project we did. It was quite simple but powerful at the same time. We learned a lot in every field. 
