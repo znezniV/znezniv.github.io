@@ -264,7 +264,7 @@ First of all, we had to figure out how we wanted to make the presentation on the
 
 After building up in the exhibition room, we had a short breakdown because nothing of the tracking of the blocks was working. After some panic and discussion, we figured out that we just had to calibrate again. 
 
-## 22.03. Friday - Presentation & Conclusion
+## 22.03. Friday - Presentation and Conclusion
 We met early in the morning to practice our presentation to raise the quality of it and give a better impression of the project.
 
 The presentation went very well and it was a lot of fun seeing all the other exciting projects in our class.
