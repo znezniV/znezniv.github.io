@@ -3,7 +3,7 @@ layout: post
 title:  Embodied Interaction Module Journal
 date:   2018-09-17 14:21:56 +0100
 categories: ZHdK Blog
-permalink: spatial-interaction-journal
+permalink: embodied-interaction-module-journal
 desc: A journal about the "Embodied Interaction" module at Zurich University of Arts
 ---
 
