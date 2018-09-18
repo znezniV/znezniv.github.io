@@ -23,10 +23,12 @@ The fascinating thing is, that this can change within seconds so correlations ca
 This sensor is – in combination with other sensors – is used in falsely called lie detectors. But since these sensors only show discomfort or kind of stress, it's not really possible to completely identify a lie and so this machine shouldn't be called like that.
 
 To measure my sweaty fingers, I decided to draw a spot with a soft pencil in my notebook, put my thumb and my index finger on it and drag smear my finger down to the page. With the gradient of the track I was able to see how wet my fingers were.
+![Bike and Notebook ]({{ site.url }}/assets/posts/embodied/skin-pencil.jpg)
 
 I repeated that after sitting on the atelier terrace, after the bike ride, while cooking, while eating spicy food and after doing dishes. Instead of doing it on a fixed timescale, I wanted to examine some certain events. 
 
 The actual thing that interested me was the effect from my body on my fingers but after washing the dishes (and drying my hand) my fingers obviously were very dry. This is more an effect from outside directly on my fingers and not through my body and brain. But I also continue to observe these things.
+![Bike and Notebook ]({{ site.url }}/assets/posts/embodied/bike-notebook.jpg)
 
 ## 17.09. Tuesday – Introduction in the topic
 I continued with my data tracking after I woke up and when I drove to school, back home (because I forgot my notebook) and back to school (I've been really sweaty, not only on my fingers).
