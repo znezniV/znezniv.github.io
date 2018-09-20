@@ -55,5 +55,55 @@ Following ways to translate data into a representation:
 4. (unreadable on my notes)
 5. Purpose driven
 
+## 17.09. Wednesday – Bodystorming and Inspiration
+### Single performance
+This morning started with a small assignment that was given to us in the previous day. The idea was to make a short performance of approximately three minutes to display our analogue data we collected. It was a very funny and still interesting start and sometimes we couldn't hold it back to laugh very hard.
 
-### Sensing and data collection
+I decided to represent the data with sound. So, I took the OP-1 pocket synthesizer (which helps me in all situations) with me, chose a synthesizer and pitch, and mapped a single note on a step built in step sequenzer to make sure the note is always played with the same length. I translated the gradient I had in my notebook from putting my finger on the pencil spot from the previous in decay of the note I played. Therefore I went back into synthesizer mode and mapped the decay of the sound to the gradient I perceived and mentioned the event I was recording my sweat on the fingers, such as while cooking, after cycling and so on.
+It maybe wasn't a "productive" exercise but still it helped me to gently get into the topic. 
+
+I think the fascination about data is more that it could give us accurate, un-biased and objective insides when we do not even have to think about it. These advantages are usually not here in the analogue way. But especially because these measurements are biased, it helps (in my opinion) much more to be aware of what we are measuring and the overall situation. It doesn't tempt us to focus to much on every detail and this is especially helpful in the beginning. 
+
+### Performance about another person
+After our personal performance we were asked to form groups to observe the traces / data a group partner leaves and make a little performance afterwards again. 
+
+Dani and decided to do that together and spend lunch time to observe each other. We found a few ticks about each other but we were not really satisfied by this idea. After a while we met a girl which was having her second day at Cast (audiovisual media)  who introduced herself very friendly but also in a weird way. We noticed how hard and awkward these situations can be so we decided to make a performance as if we meet each other the first time.
+Included was an awkward asking for the right room, the question what we are studying and a weird hand shake / clap / hug.
+
+### Research Verena Ziegler
+Verena Ziegler introduced us to her research which changed from architecture to "interactive" fabrics, all with new digitally fabricated technologies.
+
+Along that she has shown us tons of great inspiration in the field of embodied fabrication.
+
+List:
+- "Walking City", Archigram, 1960
+- "Body Extension", Lydia Clark, 60s
+- "Cool Himmelblau", 1971
+- "Finger Glover" / "Einhorn", Rebecca Horn, 1970
+- "Mobile Office", Hane Holler, 1969
+- Lucy McRae
+- Iris van Herpen
+- "Shrink", Lawrence Malstrat
+- James Merry (Björn)
+- Nero Oxman
+
+### Data output repetion
+After our brains were completely blown away by the projects that have been done our docent Joëlle made some repetition.
+It included:
+- Metapher
+- Data mapping
+	- XYZ Mapping
+- Existing grammar
+- Machine Properties
+- Purpose driven design
+- Data driven design.
+
+This should prepare us for the following brainstorm session.
+
+### Brainstorming
+Since I'm not such a fan of brainstorms I tried to make something different. I knew that we were making a speed dating brainstorm and from my previous experience I knew that sometimes it isn't working with every person. So instead of pressuring me, I accepted that sometimes I had no idea but I asked questions to my brainstorm partner to challenge them for some ideas.
+
+After all, we found some pretty interesting ideas which we all collected in front of the class and briefly discussed.
+
+### Afterwork
+The goal of the day was to build groups and find a direction of the topic we want to focus on. During the brainstorming sessions Daniel Holler and me had a great flow so we decided to go further on our ideas. After a ping pong session we agreed to focus on sweat and do some general research what sweat can mean in society.
