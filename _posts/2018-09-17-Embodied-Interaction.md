@@ -108,6 +108,27 @@ After all, we found some pretty interesting ideas which we all collected in fron
 ### Afterwork
 The goal of the day was to build groups and find a direction of the topic we want to focus on. During the brainstorming sessions Daniel Holler and me had a great flow so we decided to go further on our ideas. After a ping pong session we agreed to focus on sweat and do some general research what sweat can mean in society.
 
+## 20.09. Friday – Working on the topic
+**This is a post written by my co-worker [Daniel E. Holler on his Blog](https://medium.com/@daniel.e.holler/embodied-interaction-20-09-db965c64fd75)**
+The project is slowly gaining some shape and colour. On wednesday, the big performance day, we had the chance to enjoy some theatrical, didactical and funny perfromance presentations by our class mates. After having had the first contact with personal data and how we can creativley express it, we had to dig deeper in the afternoon and closley observe some ticks or little habits of strangers, and again perform it in front of the class. This lead to a more concise finding of ideas, in the form of a creative speed dating.
+
+### The Idea
+After the speed dating my idea slowly cristallized about the same subject as Vinzenz’s: We want to work with sweat. We were intrigued by its simplicity, its raw nature but especially by its very variegated purpose for humans and animals.
+
+This morning after having made a quick research session about the subject, our ideas started flowing and flowing. From highlighting sweat and making it a (fashion) statement, to making a portable sweat diary, to having some sort of second skin where sweat could be represented.
+
+### The Trouble
+Currently we are having a little trouble to connect the dots: the measurable data, the product and the purpose. We also dove into some metaphors which are related to sweat. Quickly we found the strigil, a sort of scraping tool used by ancient greeks, in order to cleanse the skin before and after doing sport. 
+
+### Researching
+
+
+#### A typical strigil
+the significance of sweating in ancient culture we found something really interesting: Sweating was regarded by many cultures spanning the whole globe as cleansing. Sweating cleansed the body psychologically and physically in a sort of ritual. This sacral importance of sweating completely lost its meaning in nowaday’s society, where sweating is regarded as something to be frowned upon.
+
+### The Concept (?)
+The current state of our very raw concept would connect a simple monitoring of when and how much a body sweats, transcribe the data into a digitally fabricated object (preferably sturdy and durbale materials) and for example wear the solidified sweat (as we all know sweat probably the most ephemeral secretion of the body). The solidified sweat would hide bodyparts but at the same time the “undesired” sweat is made visible. Furthermore we would like to connect these aspects of our concept with the metaphor of rituals, but we will start to experiment first with the sweat sensor in order to guide our concept into the right direction.
+
 ## 20.09. Friday – Rhino & Grasshopper Introduction
 For 3D editing we had a day of introduction for the software [Rhino](https://www.rhino3d.com/) with the visual coding extension [Grasshopper](https://www.grasshopper3d.com/). This should enable us to process data into parametric design models for this course.
 
