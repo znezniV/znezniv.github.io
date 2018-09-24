@@ -109,7 +109,7 @@ After all, we found some pretty interesting ideas which we all collected in fron
 The goal of the day was to build groups and find a direction of the topic we want to focus on. During the brainstorming sessions Daniel Holler and me had a great flow so we decided to go further on our ideas. After a ping pong session we agreed to focus on sweat and do some general research what sweat can mean in society.
 
 ## 20.09. Friday – Working on the topic
-**This is a post written by my co-worker [Daniel E. Holler on his Blog](https://medium.com/@daniel.e.holler/embodied-interaction-20-09-db965c64fd75)**
+**This is a post written by my co-worker [Daniel E. Holler on his Blog.](https://medium.com/@daniel.e.holler/embodied-interaction-20-09-db965c64fd75)**
 
 The project is slowly gaining some shape and colour. On wednesday, the big performance day, we had the chance to enjoy some theatrical, didactical and funny perfromance presentations by our class mates. After having had the first contact with personal data and how we can creativley express it, we had to dig deeper in the afternoon and closley observe some ticks or little habits of strangers, and again perform it in front of the class. This lead to a more concise finding of ideas, in the form of a creative speed dating.
 
