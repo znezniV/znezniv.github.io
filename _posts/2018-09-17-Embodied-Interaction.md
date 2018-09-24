@@ -55,7 +55,7 @@ Following ways to translate data into a representation:
 4. (unreadable on my notes)
 5. Purpose driven
 
-## 17.09. Wednesday – Bodystorming and Inspiration
+## 18.09. Wednesday – Bodystorming and Inspiration
 ### Single performance
 This morning started with a small assignment that was given to us in the previous day. The idea was to make a short performance of approximately three minutes to display our analogue data we collected. It was a very funny and still interesting start and sometimes we couldn't hold it back to laugh very hard.
 
@@ -107,3 +107,55 @@ After all, we found some pretty interesting ideas which we all collected in fron
 
 ### Afterwork
 The goal of the day was to build groups and find a direction of the topic we want to focus on. During the brainstorming sessions Daniel Holler and me had a great flow so we decided to go further on our ideas. After a ping pong session we agreed to focus on sweat and do some general research what sweat can mean in society.
+
+## 20.09. Friday – Rhino & Grasshopper Introduction
+For 3D editing we had a day of introduction for the software [Rhino](https://www.rhino3d.com/) with the visual coding extension [Grasshopper](https://www.grasshopper3d.com/). This should enable us to process data into parametric design models for this course.
+
+### Drawing, Primitives, Boolean Operations and Loft
+Since we already had an introduction in Rhino last year, the overview in the software was a little short. We right away jumped into the curve drawing tool which we used to draw an arrow. A handy tool is the search bar where all commands just can be typed and the command bar when the drawing tool is selected. This way you can select the starting point first (comma separated for x and y coordinates) and after pressing enter the actual length of the stroke you want to draw. The drawn curve we than extruded. To have a better view on it we changed the preview method to a version which was previewing the model in 3D instead of just lines by a right click on the camera perspective name.
+
+![Extrued Arrow Curve]({{ site.url }}/assets/posts/embodied/rhino-arrow.jpg)
+
+Later on we just played around with primitives such as cubes, cylinders, spheres, text and pipes which was a curve combined with a circle curve. 
+
+![Rhino Primitives]({{ site.url }}/assets/posts/embodied/rhino-primitives.jpg)
+
+Boolean operations were actually very straightforward as we know it from other graphic softwares. But there is a huge catalogue with different operators which are still to explore.
+
+![Rhino Boolean]({{ site.url }}/assets/posts/embodied/rhino-boolean.jpg)
+
+At the and we combined two simple curves into a simple loft. This loft can be rendered with straight sections so that it could for example cut onto a flat surface which then again can be assembled into a 3D structure.
+
+![Rhino Loft]({{ site.url }}/assets/posts/embodied/rhino-loft.jpg)
+
+### Grasshopper
+Then finally we started with Grasshopper to generate some cool stuff. First of all, we had an intro to the overall interface but it's really messy and hard to learn. The nice thing is, that a double click on the Grasshopper canvas opens up a search bar similar to the one in Rhino where elements to place can be found.
+
+First confusing thing is that there are two different ways to draw primitives. First, draw it in Rhino and connect it to a object by right clicking on the Grasshopper element and selecting to connect an object. These Grasshopper objects have a  hexagon shape around them. Second, is to generate an object in Grasshopper and this is just done by adding the same kind of element but without the hexagon.
+
+![Grasshopper Primitives]({{ site.url }}/assets/posts/embodied/grasshopper-primitives.jpg)
+
+#### Generate and Divide Loft from Three Points
+Later in Rhino we drew three points and connected them with Rhino (select multiple points) draw a line between them which then were generated into a plane which we divided into two numbers (chosen by a number slider) into parts (with "Divide Domain^2") and then created a box out of them with "Isotrim" and "Surface Box" where the height was controlled by a slider again.
+
+![Grasshopper Divided Loft]({{ site.url }}/assets/posts/embodied/grasshopper-divided-loft.jpg)
+
+Going on with the previous work, we draw a so called "Bounding Box" which contained a sphere which was subtracting it from the box. This "Bounding Box" then was added into every section we previously divided from the loft. I did not really get how we made this but I guess that's fine.
+
+![Grasshopper Divided Loft]({{ site.url }}/assets/posts/embodied/grasshopper-bounding-box.jpg)
+
+#### Pipe Curves
+The next one was much easier to grasp. We drew two curves, divided them into points and connected these points with a curve. A pipe then let these lines look much cooler.
+
+![Grasshopper Pipe Curve]({{ site.url }}/assets/posts/embodied/grasshopper-pipe-curves.jpg)
+
+These pipes then can be shifted by a certain factor. 
+
+![Grasshopper Shifted Pipe Curve]({{ site.url }}/assets/posts/embodied/grasshopper-shifted-pipe-curves.jpg)
+
+#### Working With a Face
+To finish all up, we scanned a classmates face with the software "Skanect" and then continued to modify it with Grasshopper.
+
+The scan was built up with a polygon structure which is widely used by many 3D tools. Each polygon has three points which we separated using list item and an index for each list item. The function "InCircle" finds the inner center of three points where we generated an area inside and extruded it to a certain amount and closed by the function "Cap Holes". Then we scaled X Y and Z coordinates and we had a cool kind of parametric work on a scanned human body part.
+
+![Grasshopper Face]({{ site.url }}/assets/posts/embodied/grasshopper-face.jpg)
