@@ -181,3 +181,50 @@ To finish all up, we scanned a classmates face with the software "Skanect" and t
 The scan was built up with a polygon structure which is widely used by many 3D tools. Each polygon has three points which we separated using list item and an index for each list item. The function "InCircle" finds the inner center of three points where we generated an area inside and extruded it to a certain amount and closed by the function "Cap Holes". Then we scaled X Y and Z coordinates and we had a cool kind of parametric work on a scanned human body part.
 
 ![Grasshopper Face]({{ site.url }}/assets/posts/embodied/grasshopper-face.jpg)
+
+## 26.09. Wednesday – 3D Printing Intro
+
+For the whole day a introduction for 3D printing and serval software tools was planed. 
+Therefore, the whole class met in the 3D printer corner of the low level workshop in ZHdK with Roman Jurt, Co-Founder of the Fablab Zurich and lecturer at industrial design. 
+
+![Class in the lab]({{ site.url }}/assets/posts/embodied/print-course-class.jpg)
+
+### Material Archive 3D Beacon
+First of all we were introduced to the new printers Roman assembled and put onto nice racks. The first exercise was to print new beacons for the material archive at ZHdK by turning the model that should be printed in the preparation tool [«UP Studio»](https://itunes.apple.com/us/app/up-studio/id1119477741) to get a sense how to achieve the best result of printing and to avoid to much support structure on the print. 
+
+I tried to very extreme and placed the object beacon on a tip of the edge expecting it to fall down. But actually it was printed without a lot of trouble, only edges were not perfect and the extruded letters were not very clean. In the end almost no support structure was needed.
+
+![Almost no support structure]({{ site.url }}/assets/posts/embodied/print-no-support.jpg)
+
+### Inspirational Projects
+Roman continued with a presentation with projects he made and tools he used. This was very inspirational and I think also important to get a little the way he approaches these projects with much more experience than we do.
+
+### Tools
+Also he introduced us to serval tools with his own touch to approach it.
+First he gave us a little overview what are the differences and whats available. Major differences are knobs based and polygon based tools. Knobs are like vectors we know from Illustrator. Very simplified, you can draw curves and process the space or surface in between those curves. More comparable to pixels are polygons which are used in other tools. It basically works with three connected points in the three dimensional space which provide a surface which can be connected with more polygons to a bigger and more variable, big surface. There is also kind of "3D Pixels" which we know from Mindcraft and are mainly used in VR tools (which can also be used for modeling) but are rather niche products.
+
+#### Tinkercad
+[Tinkercad](http://tinkercad.com) is maybe the simples 3D tool available and super straightforward. Since, we played around with it in previous courses it wasn't a big deal anymore for us. Still, it was a refresher and Roman could introduce very cool new features in our workflow. So, it's possible to draw a object duplicate it (CMD + D), move, rotate (or edit it in another way) and duplicate it again with the shortcut. This way, all the edits will applied to the duplication in a further step which is great to make cool pattern very quick.
+
+#### Onshape
+We already heard many things about [Onshape](http://onshape.com) from our Industrial Design colleagues but never worked with it. It's a professional online 3D CAD to work collaboratively in real time and with a version control. It's an amazing piece of software btw. 
+But of course the learning curve is much, much higher than Tinkercad but as Roman says still easier than other CAD. And indeed, after getting the basics it's pretty straightforward. In the end of the afternoon we had a group challenge to build a space rocket with the whole class working at the same time which miserably failed because no one had an idea how to deal with the software. So Roman took over and used it as an intro into Onshape. 
+
+#### Meshmixer
+It's hard to get for what Meshmixer is actual useful for. But Roman showed us some tools to make a beautiful mesh out of a model, how to close holes and to analyze the object. Also, it has a way to build support pillars inside of the model which would be hard with the auto creating support structure of G-Code software. Sometimes it's better to have full control over it.
+
+### Personal Project
+Most of the afternoon, we had time to work on our project in doing some experiments.
+
+#### Material Feeling
+Daniel experimented in Tinkercad to produce different kind of structures to give the material a feeling for excitement or uncomfortableness to find a balance in the material and examine when it starts to change. 
+
+![Bottle top]({{ site.url }}/assets/posts/embodied/print-bottle-top.jpg)
+![Texture]({{ site.url }}/assets/posts/embodied/print-texture1.jpg)
+
+#### Grasshopper Experiments
+I continued to work with Grasshopper to learn more how it works. Therefore I watched some Youtube videos and tried to apply some tings I learned in the previous course. My goal was to find out how to apply data later on in the 3D models.
+
+![Screenshot Grasshopper]({{ site.url }}/assets/posts/embodied/print-grasshopper-screenshot.jpg)
+![Experiment 1]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape1.jpg)
+![Experiment 2]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape2.jpg)
