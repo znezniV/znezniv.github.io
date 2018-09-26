@@ -194,7 +194,7 @@ First of all we were introduced to the new printers Roman assembled and put onto
 
 I tried to very extreme and placed the object beacon on a tip of the edge expecting it to fall down. But actually it was printed without a lot of trouble, only edges were not perfect and the extruded letters were not very clean. In the end almost no support structure was needed.
 
-![Almost no support structure]({{ site.url }}/assets/posts/embodied/print-no-support.jpg)
+![Almost no support structure]({{ site.url }}/assets/posts/embodied/print-no-almost-support.jpg)
 
 ### Inspirational Projects
 Roman continued with a presentation with projects he made and tools he used. This was very inspirational and I think also important to get a little the way he approaches these projects with much more experience than we do.
