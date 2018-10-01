@@ -228,3 +228,30 @@ I continued to work with Grasshopper to learn more how it works. Therefore I wat
 ![Screenshot Grasshopper]({{ site.url }}/assets/posts/embodied/print-grasshopper-screenshot.jpg)
 ![Experiment 1]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape1.jpg)
 ![Experiment 2]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape2.jpg)
+
+## 28.09. Wednesday – Refining Concept
+In the previews day we made experiments to scare some of our friends and measured their finger conductivity on their fingers. We found out that after the short shock, they became much more relaxed which was also supported by some research we found. To move on by we decided to finally focus on work context to force people to not be stressed at work. By scaring them we can first force them to stop buying to much into the current rhythm and help them to relax.
+
+### Wearable Reference
+We first looked up some references to for wearables to get a little of aesthetic view for it and built something like a mood board. Also we looked up for similar projects in the field and why they were made. 
+
+Then we also found an interesting article for [a device that was able recognize if a real (natural) or a synthetic voice was speaking.](https://rnd.dt.com.au/anti-ai-ai-a-wearable-ai-device-244900e4d71c) Very cool and interesting with the emerging of artificial intelligence which enables always better synthetic voices and could lead to serious problems in communication when people are not used to it and trust voices. But the very interesting thing was how user was warned of the synthetic voice. It was a small [Peltier element](https://de.wikipedia.org/wiki/Peltier-Element) that was cooling down as soon a synthetic voice was detected. So we wrote that down for the next task to do.
+
+### How to Scare
+There are many ways to scare people and mostly they are very well interconnected with our senses so we react before we actually can think about it. This actually is essentially getting scared. 
+
+But most ideas such as flashing light and loud noises was to distracting or not as unexpected such as something that pressures you. So, after short brainstorming and discussion we decided to test the cooling with all the properties that are also working in a office environment.
+
+### Testing
+So we went into the thrift shop ["Brockiland"](https://www.brockilandag.ch/) to buy super cheap bags with straps to attach something on our body. At the meantime we let some water froze to use it after. In the thrift shop we found a cool backpack with a aluminium frame which we could strap on our bag easily and enabled us to test all sorts of attachments on our body with ease.
+
+On the way back to school, we passed by our favorite electronic store [Pusterla](https://pusterla.ch/) to ask for a Peltier element. We were not surprised that they had multiple elements but unfortunately they were to big with 45 mm on each side. This would take a lot of flexibility from us in terms of the size, because we need to build a even bigger cooling system around as well as with the power supply but also how we attache it. It was also not necessary since we don't want to cool down a small fridge. We also assume that smaller elements would cool down faster.
+
+With the ice we tried to scare each other and see if the reaction was the same as just scaring people before which was successful.
+![Happy Dani, scared me]({{ site.url }}/assets/posts/embodied/ice-ice-ice.jpg)
+
+### Sketches
+From that, Dani began to sketch some ideas of a advanced prototype so we can better communicate with each other but also with mentors to move on quicker.
+
+### Support From the Lab
+In the meantime I wrote a mail to Clemens Winkler, one of our lecturers from the IAD Lab. We knew that he would have some experience with it and could help us along.
