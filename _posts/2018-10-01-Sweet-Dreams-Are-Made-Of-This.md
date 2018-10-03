@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Two Years Reflection
+title:  Sweet Dreams are Made of This
 date:   2018-10-01 9:00:56 +0100
 categories: ZHdK Blog
-permalink: two-years-reflection
+permalink: sweet-dreams-are-made-of-this
 desc: A reflection on the last two years in the Interaction Design course "Sweet Dreams are Made of This" at Zurich University of Arts.
 ---
 
-In the theory module "Sweet Dreams are Made of This" in the Interaction Design course, we had the assignment to reflect on the last two years on our life. We had a few minutes in class to think about this and I will write it down a bit more in detail.
 
-## How did I change
+## Reflection / How did I change in two years
+In the theory module "Sweet Dreams are Made of This" in the Interaction Design course, we had the assignment to reflect on the last two years on our life. We had a few minutes in class to think about this and I will write it down a bit more in detail.
 
 ### Gaining Independence
 The main thing that changed a lot is that in the last years I made big progress in being more independent. I actually rather name it as taking on responsibility because that's what I really do now. I moved out for the first time which changed a lot in my perspective. It's now fully on me to get something done and that also affects me in my study life. 
