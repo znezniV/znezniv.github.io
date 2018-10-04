@@ -302,7 +302,7 @@ The Arduino setup was quite simple. Between the ground from going out from the P
 
 One problem I had was that I thought the connection to control the "rhythm" of the on and off of the resistor was in the middle. This is called "Base", the "input" is called "Collector" and the kind of "output" "Emitter". So according to [the data sheet](https://www.st.com/resource/en/datasheet/tip121.pdf) this was not true. The base was left (number 1 / B), the collector in the middle (number 2 / C) and the emitter on the right (number 3 / E). Big shoutout to Michael Schönenberger for the help. Without him I would have gone crazy and I learned a lot even how to measure electricity with a measuring tool.
 ![Transistor]({{ site.url }}/assets/posts/embodied/peltier-transistor.jpg)
-![Bipolar Transistor, https://slideplayer.com/slide/6114082/]({{ site.url }}/assets/posts/embodied/peltier-base-emitter.jpg)
+![Bipolar Transistor]({{ site.url }}/assets/posts/embodied/peltier-base-emitter.jpg)
 https://slideplayer.com/slide/6114082/
 
 So technically, we are now able to control the temperature by Arduino although we only need a on and of switch.
