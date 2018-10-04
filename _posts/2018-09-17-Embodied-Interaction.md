@@ -229,7 +229,7 @@ I continued to work with Grasshopper to learn more how it works. Therefore I wat
 ![Experiment 1]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape1.jpg)
 ![Experiment 2]({{ site.url }}/assets/posts/embodied/print-grasshopper-shape2.jpg)
 
-## 28.09. Wednesday – Refining Concept
+## 28.09. Wednesday – Refining Concept I
 In the previews day we made experiments to scare some of our friends and measured their finger conductivity on their fingers. We found out that after the short shock, they became much more relaxed which was also supported by some research we found. To move on by we decided to finally focus on work context to force people to not be stressed at work. By scaring them we can first force them to stop buying to much into the current rhythm and help them to relax.
 
 ### Wearable Reference
@@ -255,3 +255,55 @@ From that, Dani began to sketch some ideas of a advanced prototype so we can bet
 
 ### Support From the Lab
 In the meantime I wrote a mail to Clemens Winkler, one of our lecturers from the IAD Lab. We knew that he would have some experience with it and could help us along.
+
+## 02.09. Tuesday – Refining Concept II
+
+## 03.09. Wednesday – Mentoring and Sickness
+
+### Mentoring
+In the morning we had a mentoring. Because Daniel had to work during the night, we switched up with some groups and were the last group for the mentoring. We met some before and created together a short summary of our journey of work. This is always a good chance to structure your concept and reflect like writing this blog.
+
+We enthusiastically presented our work to our mentors and the feedback was quite good. They liked our concept but highlighted following points to be careful with:
+
+- Is it necessary to compare with other (worse) health gadgets?
+	- They would not recommend it.
+- There are many really bad and useless health gadgets but we should not overgeneralize this. There are also gadgets which a lot of respectable science is behind and really help people without giving wrong promises.
+- Not collecting data is great but we should also highlight why this is important i.e. that insurance companies are really looking for this.
+- We said we don't want to be our device be taken serious. That's a bit an easy cheat to also not work serious. According to our intentions, we should rather name it playful.
+- We criticized the promise as magic cure which some devices make. This is a bit harsh, generalized and sometimes even some "magic things" work. We shouldn't think black and white.
+
+### Sick Dani
+To not risk to much, Dani went home to get some rest because he really felt sick.
+
+### Tech
+In the meantime, I continued to work with the Peltier element. It was very straightforward. Connected to the power source it cooled down on one side and heated in another. Then I did some research on hardware that is missed and we need to get from the Lab.
+
+### Presentation
+Also, I prepared for the presentation we had in the class. Therefore I just continued to nail down the presentation we made for our mentors and made it more beautiful. I changed the things that were criticized and ask Dani to check it out at home.
+
+Then I prepared our prototype for the presentation by attaching our prototype element to the backpack frame vertically and horizontally with straps. In the style atelier I froze some water in forms that were exactly fitting for the prototype element.
+
+I also felt a little dizzy, which was why I decided to go home a bit earlier to prevent to get sick.
+
+
+## 04.09. Thursday – Presentation, Sickness and Tech
+### Presentation
+Dani still wasn't getting better. Actually worse. So, we decided to have him just for the presentation and then leave home.
+The presentation was very similar to the previous one we had with our mentors and the feedback was mostly good. Unfortunately there was not a lot to add but we again realized that we need to work more on the embodiment.
+
+### Tech 
+As planed, Dani left immediately after the presentation to go home and recover.
+
+I contacted Luke from the Interaction Design Lab for some technical support. He said that he only had some minutes but that was enough for me.
+
+In the afternoon, we met in the lab. He gave me a new Peltier element with the cooling element (heat sink) already glued on one side. Additionally a battery with 1.5 volt which was close enough to the prescribed 1.7 volt, a transistor, a breadboard and some jumper cable for the Arduino. The goal was that I was able to control the temperature of the Peltier element by the Arduino. At this point huge thanks to Luke for the time and patience although he had many other things to do and also more important things going on in life.
+
+The Arduino setup was quite simple. Between the ground from going out from the Peltier element I put the Transistor and connected the plus pole to the plus pole of the Peltier element.  Thought the [PWM](https://www.arduino.cc/en/Tutorial/PWM) output of a Arduino pin, I connected the Arduino to the element which then could break (with the [PWM-Signal](https://www.arduino.cc/en/Tutorial/PWM)) really quick to change the "resistance". Actually the PWD signal and also the transistor turns on and of the connection so quick that it's almost like a variable resistor. New thing for me.
+
+One problem I had was that I thought the connection to control the "rhythm" of the on and off of the resistor was in the middle. This is called "Base", the "input" is called "Collector" and the kind of "output" "Emitter". So according to [the data sheet](https://www.st.com/resource/en/datasheet/tip121.pdf) this was not true. The base was left (number 1 / B), the collector in the middle (number 2 / C) and the emitter on the right (number 3 / E). Big shoutout to Michael Schönenberger for the help. Without him I would have gone crazy and I learned a lot even how to measure electricity with a measuring tool.
+![Transistor]({{ site.url }}/assets/posts/embodied/peltier-transistor.jpg)
+![Bipolar Transistor, https://slideplayer.com/slide/6114082/]({{ site.url }}/assets/posts/embodied/peltier-base-emitter.jpg)
+https://slideplayer.com/slide/6114082/
+
+So technically, we are now able to control the temperature by Arduino although we only need a on and of switch.
+![First setup]({{ site.url }}/assets/posts/embodied/peltier-first-setup.jpg)
