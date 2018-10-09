@@ -256,9 +256,9 @@ From that, Dani began to sketch some ideas of a advanced prototype so we can bet
 ### Support From the Lab
 In the meantime I wrote a mail to Clemens Winkler, one of our lecturers from the IAD Lab. We knew that he would have some experience with it and could help us along.
 
-## 02.09. Tuesday – Refining Concept II
+## 02.10. Tuesday – Refining Concept II
 
-## 03.09. Wednesday – Mentoring and Sickness
+## 03.10. Wednesday – Mentoring and Sickness
 
 ### Mentoring
 In the morning we had a mentoring. Because Daniel had to work during the night, we switched up with some groups and were the last group for the mentoring. We met some before and created together a short summary of our journey of work. This is always a good chance to structure your concept and reflect like writing this blog.
@@ -286,7 +286,7 @@ Then I prepared our prototype for the presentation by attaching our prototype el
 I also felt a little dizzy, which was why I decided to go home a bit earlier to prevent to get sick.
 
 
-## 04.09. Thursday – Presentation, Sickness and Tech
+## 04.10. Thursday – Presentation, Sickness and Tech
 ### Presentation
 Dani still wasn't getting better. Actually worse. So, we decided to have him just for the presentation and then leave home.
 The presentation was very similar to the previous one we had with our mentors and the feedback was mostly good. Unfortunately there was not a lot to add but we again realized that we need to work more on the embodiment.
