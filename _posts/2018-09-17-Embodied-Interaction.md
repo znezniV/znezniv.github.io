@@ -307,3 +307,52 @@ https://slideplayer.com/slide/6114082/
 
 So technically, we are now able to control the temperature by Arduino although we only need a on and of switch.
 ![First setup]({{ site.url }}/assets/posts/embodied/peltier-first-setup.jpg)
+
+## 09.10. Tuesday – Building Fairly Advanced Prototype
+With the fresh week we already had a mentoring coming where we should present a fairly advanced prototype which should be in "real size" and going into the final direction we want to build the final piece.
+
+### Rethinking Peltier
+Last week we managed to overcome our sickness but also to make a Peltier element run on a simple Arduino setup. 
+
+But when we tested it, we were not quite satisfied. The element was getting somehow cool, but as soon we touched it, it was getting warm. Obviously, the surface of the Peltier element was conducting heat / coldness very well and so it was not very effective on something that warm like our skin. So there wasn't really a shock moment of cold. 
+
+On a (or few more) Friday evening beer the week before, our class colleague and tireless competition (joke) Aurelian said that it might be simpler to work with a ice spray. I kept the idea growing during the weekend and proposed it to Dani. After thinking for some minutes we bought a nasty smelling, ordinary sport cooling spray.
+
+#### Testing
+First thing we did with the cooling spray was again testing. We tested it on us and as well on a female testing subject with the GSR sensor we already used a lot. As well here the result was clear.
+![Happy Spray Testers]({{ site.url }}/assets/posts/embodied/spray-test1.jpg)
+
+### Prototype Ideas
+So what to do with the spray? Simply spraying it on the back was to simple, not embodied and also kind of dangerous because the skin could be burned. So one of the simplest ideas was to get some plastic pipes in the workshop. In the pipe we cut some holes and sprayed some spray through it. Close to the body the result was literally pretty cool because all the pipe felt very intensively cold.
+The problem was, that it needed to be attached tightly to the body which was not easy with the plastic pipe. We sticked a lot of body hair in between which shows our dedication.
+![Hair outch]({{ site.url }}/assets/posts/embodied/spray-test-hair.jpg)
+
+### Print Textile
+Since Verena Ziegler showed us her 3D prints on textile, it seemed as everyone wanted to try it as well and there were samples of it lying everywhere in the atelier. So, we also had to try it. It almost felt so natural to go there because all around was full with it. 
+
+#### Textile
+So we tried stretch textile and mesh textile. The flexible ones were not really able to let the 3D prints stick on the textile but the ones with a rough mesh were holding more strongly. Still it was not really satisfying and we didn't wanted to create a skin tight piece of clothing. 
+![Attaching flexible textile]({{ site.url }}/assets/posts/embodied/kinesio-attaching.jpg)
+
+### Kinesio Tape
+So we very quickly had the idea of Kinesio tape. It could be attached directly to the skin like a wearable. 
+The pipes could be directly printed on the tape and form to the body shape. This were our thoughts but now to practice.
+
+#### Print Kinesio
+So we spent way to much time on creating a 3D model (first with Rhino, then with Cinema4D) and printed it on the Kinesio tape which was attached elaborately on the printing surface with Duct Tape.
+![3D Model for Kinesio Print]({{ site.url }}/assets/posts/embodied/kinesio-print-model.jpg)
+
+#### Finding Shape
+On the first trial we recognized that more surface of the object on the textile would not give us necessary more grip on the textile but more surface to be ripped of while having the textile flexible. 
+![Kinesio Shape Sketch]({{ site.url }}/assets/posts/embodied/kinesio-sketch-shape.jpg)
+
+Second thing was, that the shape or curve of the object was giving different properties on bending it. Sounds very obvious but is still very important.
+
+#### Refining model 
+Now we tried to have a shape that is curved so it should be more flexible to bend. 
+
+It was very time consuming and needed serval trials to print. We had a lot of problems with the model, the wall thickness, witch the Kinesio tape and with uncalibrated or damaged 3D printers. 
+![One of hundret fails]({{ site.url }}/assets/posts/embodied/kinesio-fail.jpg)
+
+That was very exhausting but we made a small piece before we were completely falling apart.
+![Done and done]({{ site.url }}/assets/posts/embodied/kinesio-burnout.jpg)
