@@ -356,3 +356,29 @@ It was very time consuming and needed serval trials to print. We had a lot of pr
 
 That was very exhausting but we made a small piece before we were completely falling apart.
 ![Done and done]({{ site.url }}/assets/posts/embodied/kinesio-burnout.jpg)
+
+## 16.10. Tuesday – Production
+Only two days were left until the end of the module of our project. Since we had to make a presentation with a performance we wanted to finish the production as much as possible to dedicate the following day fully to the presentation.
+
+The goal was to have all models and have them all printed on Kinesio tape.
+
+We had the technical constrain that we only had 3D printers that were able to print a fairly small surface. On the other side, the Kinesio tape would offer us to print long and thin structures on it. But because this wasn't possible, we chose to make multiple modular parts that could be interconnected with small plastic tubes.
+
+Therefore, we redrew all the so called splines for the actual path on the tape and the cross section of the pipe in Adobe Illustrator. As done in the previous days, these splines can then easily imported into Cinema 4D. We agreed to make three shapes with different bending properties to represent the possibilities.
+
+An adjustment from the last experiments were that we decided to make the pipe more flat. This would give the print on the tape less stiffness which then is better for the overall flexibility. This is very crucial because the tape is attached directly on the body and is exposed to all movements. Subsequently, we had to change the end and beginnings to connect the plastic tubes from the elements to each other and connected from the cooling spray to the first pipe element a bit higher end wider. 
+
+In theory, it would have been very easy to model the connector and attach it to the ends of the pipe we created before. But in reality it was not. 
+Modeling it was a big pain because we used the Cinema 4D "Sweep Tool" to connect two different cross sections (from the pipe to the tube height) to a expanding pipe. To connect all the parts correctly took us a lot of time but was fairly simple. We finally managed it thanks to the help of Alessandro Holler, the brother of Daniel and the assistant of Scientific Visualization at ZHdK.
+But that was not enough of trouble. Connecting the two parts — the pipe and the connector — was not really working. Alessandro was trying to help with his little time he had but obviously also had other things to do.
+After trying to unsuccessfully connect the polygons of both parts manually, all of a sudden it worked just with the regular boolean tool which connects two objects together but never worked at first trial in this day.
+
+Without questioning to much, we created the two elements and ran to the printers. But again we had trouble. First of all, the slicing software UP Studio rendered a raft and support structure of the print although we removed it in the settings. Trying for a long time and adjusting shapes did not help. But again, magically we figured out that if we turn the model by 90 degrees it worked. There's no actual reason for it but it works.
+
+But also while printing we encountered another problem: Some of the printers were not really calibrated well and just ripped of the Kinesio tape we attached on the printing surface. We did not even know that it was possible to calibrate the 3D printers but luckily, a guy from industrial design showed us how to. 
+
+Finally, after many ours, we were able to print almost six exemplar of two shapes each. We agreed to stop at this point because we knew that the next and final day will be exhausting and we should save some energy for the last run.
+
+Nevertheless, I quickly modeled the last shape at home in the bed, hoping that the next day will be a bit more productive. 
+
+![Failed again]({{ site.url }}/assets/posts/embodied/print-fail.jpg)
