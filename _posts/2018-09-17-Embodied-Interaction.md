@@ -377,3 +377,40 @@ Finally, after many hours, we were able to print almost six exemplars of two sha
 Nevertheless, I quickly modeled the last shape at home in the bed, hoping that the next day will be a bit more productive. 
 
 ![Failed again]({{ site.url }}/assets/posts/embodied/print-fail.jpg)
+
+## 17. – 18.10. Wednesday & Thursday – The Arrival at the Destination
+**This is a post written by my co-worker [Daniel E. Holler on his Blog.](https://medium.com/@daniel.e.holler/embodied-interaction-17-18-10-b995d3c0d0bc)**
+
+### Production
+After starting production on Tuesday, we scaled it up on Wednesday. We had some to do some troubleshooting with the 3D printers, but in the end, we could easily finish the production having in total 18 PipeLinks (we decided on the last day to call our amalgamation of Kinesio tapes and the 3D printed tubes “Pipeline”). With 18 pieces we had six each of our three models. The whole production lasted until the evening; we would go down to the workshop every 1,5 hours in order to start a new print. Moreover, our last model, the double curve — which can be bent horizontally, whereas the other two models are flexible on the vertical axis — was finished on Wednesday.
+
+
+Our last model during production: “PipeLink Double Curve”
+Performance Ideation
+In the afternoon we started to ideate a concept for our performance. Quickly we found a good concept and I started sketching a storyboard since our performance consists of a combination of video and us two performing. Afterward, we quickly gathered our equipment and shot the video in a dark room. More about the performance at the end of the text.
+
+A big part of the video consists of an abstract data visualization representing the stress level, the scare, and the subsequent reduction of the stress level. The data we visualized came from an actual test we performed with Rebecca; you can find her in one of the earlier posts. We chose her data because she had a very consistent and well readable result. We imported the CSV file into Processing and Vinzenz wrote a little program, where the data points were translated into a circle. The circle was drawn on top of itself at every data point, resulting in the circle changing in size. Vinzenz rendered a TIF file for every data point/frame and imported it into the video.
+
+![“The storyboard is the instrument of the coward.” -Werner Herzog]({{ site.url }}/assets/posts/embodied/pipelink-storyboard.jpg)
+“The storyboard is the instrument of the coward.” -Werner Herzog
+
+While Vinzenz was busy editing the video, I concentrated on a few stylistic details for the performance. Since we wanted to show our PipeLinks sticking on our backs; with all the tubes for the cooling spray etc; we had to come up with a new piece of garment. The reason being that we did not want to perform half naked. Our solution was to tailor two long sleeve shirts, made of transparent plastic. I received help from Lola, a Trends&Identity student, who had some sewing patterns for t-shirts laying around. I struggled a little bit with the details and finishing, but both of our shirts fit us perfectly.
+
+![Transparent T-Shirt]({{ site.url }}/assets/posts/embodied/pipelink-tshirt.jpg)
+The freshly tailored, long sleeve, transparent shirt.
+
+In order to add some very last finishes to the performance and subsequent presentation, we quickly animated our models in Cinema 4D. After rendering them and stitching them together, we inserted the video in our Keynote presentation, as a background image during the Q&A after the performance.
+
+### The Performance
+The performance consisted of a combination of a video and us two performing. The video we projected, showed our two faces in a split screen while “looking into the computer”. The sequence lasted around one minute. The rendered data visualization was overimposed on the video. We timed our facial expressions (becoming more and more stressed, in relation to the data) to the data plot, culminating in the “big scare”. We wrenched our faces, clearly showing the result of the freeze-shock, and afterward leading to the wave of stress-relieve. In order to support the video and to “map” it into reality, we sat in front of a table, looking into the computer, faking a “real-time” recording of our faces. Because we had our transparent shirts on, the PipeLinks were clearly visible. In order to accentuate the climax (the cooling shock), we had some actual cooling spray hidden from the audience; therefore by carefully timing our action, we sprayed the cooling spray, creating a little wave of vapor around our bodies. The performance ended with us standing up and bowing to the audience.
+
+![PipeLink attached]({{ site.url }}/assets/posts/embodied/pipelink-attached1.jpg)
+![PipeLink attached]({{ site.url }}/assets/posts/embodied/pipelink-attached2.jpg)
+![PipeLink attached]({{ site.url }}/assets/posts/embodied/pipelink-attached3.jpg)
+The PipeLink stuck on our backs, they are even visible under some garments
+
+![PipeLink Presentation]({{ site.url }}/assets/posts/embodied/pipelink-presentation.jpg)
+Vinzenz and Daniel during the presentation
+
+![The animated models]({{ site.url }}/assets/posts/embodied/pipelink-animation.gif)
+The animated models
