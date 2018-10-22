@@ -280,7 +280,7 @@ Then I prepared our prototype for the presentation by attaching our prototype el
 
 I also felt a little dizzy, which was why I decided to go home a bit earlier to prevent to get sick.
 
-## 27.09 – 04.10 – The big concept issue.
+## 27.09 – 04.10 – The big concept issue
 **This is a post written by my co-worker [Daniel E. Holler on his Blog.](https://medium.com/@daniel.e.holler/embodied-interaction-17-18-10-b995d3c0d0bc)**
 
 In the past week we made a very big progress concerning our concept and our idea. We had to find a common ground and idea so we decided to work on stress. Stress makes perfect sense, since measuring sweat on our hands is very closely connected to emotions. Furthermore we wanted to investigate negative emotions, but more of the chronic kind, so we could leave out fear and anxiety (even though they also play a role)
@@ -321,7 +321,7 @@ In order to quickly validate this direction we made a very quick and dirty test:
 ![Ice Cube Test]({{ site.url }}/assets/posts/embodied/ice-ice-ice.jpg)
 The Ice Cube Test
 
-Therefore we have three major elements wwhich make up our concept, the data, the user, and the embodiment. These three elements are incorporated into the main goal of reducing stress levels at work.
+Therefore we have three major elements which make up our concept, the data, the user, and the embodiment. These three elements are incorporated into the main goal of reducing stress levels at work.
 
 #### Data
 In the aspect of data we want to make sure that our user’s data is not shared, since our device will only reactiveley work with it, without saving the data. This should be an alert to the current trend of, for example insurance companies giving better offers to people who share their medical device data with them.
