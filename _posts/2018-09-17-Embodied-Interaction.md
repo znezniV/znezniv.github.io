@@ -280,6 +280,57 @@ Then I prepared our prototype for the presentation by attaching our prototype el
 
 I also felt a little dizzy, which was why I decided to go home a bit earlier to prevent to get sick.
 
+## 27.09 – 04.10 – The big concept issue.
+**This is a post written by my co-worker [Daniel E. Holler on his Blog.](https://medium.com/@daniel.e.holler/embodied-interaction-17-18-10-b995d3c0d0bc)**
+
+In the past week we made a very big progress concerning our concept and our idea. We had to find a common ground and idea so we decided to work on stress. Stress makes perfect sense, since measuring sweat on our hands is very closely connected to emotions. Furthermore we wanted to investigate negative emotions, but more of the chronic kind, so we could leave out fear and anxiety (even though they also play a role)
+
+In our mentoring, we still were undecided in which direction the subject of stress should lead us, therefore we stayed on the simple path and formulated our “hypothesis”: How can we reduce work related stress at the work?
+
+Well, good question — and at the beginning difficult to answer. What Vinzenz and I did, was not to think about it too much and to dive into the data. We had our GSR sensor running and finally we could test it out, get a feeling of the data and hopefully it would lead us into a good direction.
+
+### Initial Testing Grounds
+We knew for a fact that sweating on handpalms is triggered by strong emotions. We quickly set up the sensor and suddenly the Scary Maze Game came to our mind; this game, an early 2000s online flash game is very easy to solve: your cursor should not touch the black walls and the player has to navigate through a sort of maze/track. On the last level the difficulty is majorly increased, leading to a very concentrated state of the player, shortly before reaching the goal, a very high pitched screaching voice and a scary picture surprises the player promptly sacring her/him. 
+We tested this game on five people, 3 men and 2 women. The men already knew the game and both of the women did not. The results were the ones we expected, the players got very scared. Afterwards we reviewed our data and plotted it and we were very surprised: In all our tests the sweat (or stress) shortly shot up during the scare, but a second later when our testperson realized it was just a small jumpscare, the stresslevel decreased drammatically and stayed below the inital level.
+
+![Scare Plot 1]({{ site.url }}/assets/posts/embodied/concept-plot.jpg)
+2 plots of our tested women, the scare and the subsequent reduction of the stress level are clearly visible.
+
+Vinzenz and I were very interested and quickly began researching more and more about it. I researched the psychology of jump scares, which is widely used in horror movies. In an interview with a neuroscientist about horror movies this answer striked me:
+
+“Once the ‘fight-or-flight’ signals cease, the brain releases neurotransmitters and hormones that mediate what we call the ‘rest-and-digest’ system, the heart rate is coming down, the breathing is slowing, goose bumps are relaxing. There’s a sense of internal cognitive relief in the body, and that feels good.”
+
+### Further research for references
+This is the addicting factor of horror movies for example, but we figured that we could exploit it for our stress reduction device. Before we did further testing we did some deeper research concerning health gadgets and existing stress reduction gagdgets. Our findings were pretty extensive but we could extrapolate some common grounds:
+
+— Stress reduction gadgets work mostly by calming the user. Breathing pattern analysis and breathing techniques, similarly to yoga exercises are very widespread. Also some sort of bio feedback systems are used where the user has to concentrate on their own body fuctions/emotions. Moreover some gadgets such as the Moodwings bracelet (very appropriate name) work with simple vibrations. The vibrations sort of calm the user through a soothing touch.
+
+![Moodwings]({{ site.url }}/assets/posts/embodied/concept-butterfly.jpg)
+The Moodwings vibrating bracelet, in the shape of a butterfly
+
+— A second extrapolation is that medical gadgets are very controversial. There are several studies showing that medical gadgets base their effectiveness on non scientific data and heavy marketing. Concerns over false promises, abuse of personal data, reliability and validity came to our attention. We thought we could very well built our product, criticizing/counteracting these problematic aspects that many (but of course not all) medical gadgets feature.
+
+### The Final Concept Plus Further Testing
+Therefore by connecting the dots of our findings in the testings and in our research, we came to the conclusion that our device should scare people in order to reduce their stress levels at work. I did some sketches with the horror movie jump scares techniques in mind: scaring people with quick motions and flashes of light work best. My initial idea was to have the backrest of a chair spring open, letting the user nearly fall off his/her chair. A further idea would have been to have a sort of airbag popping up and scaring the user with its motion. Unfortunately, both of these ideas would be very disruptive during work. Vinzenz finally had the idea to scare the person by shocking the body with cold, for example when people flinch when they are touched by an ice cube.
+
+![Scare Plot 2]({{ site.url }}/assets/posts/embodied/concept-plot2.jpg)
+In the 2 red circles you see the stress level going down, after the Ice Cube Test.
+
+In order to quickly validate this direction we made a very quick and dirty test: We froze some water and sat infront of our laptop shirtless and with our GSR sensor active. After some minutes of being distracted we pressed an icecube onto the kidney region (which is vey sensitive). The results were clear, the stress level shot down again (even though the plot does not look as exagerated as with the jump scare).
+
+![Ice Cube Test]({{ site.url }}/assets/posts/embodied/ice-ice-ice.jpg)
+The Ice Cube Test
+
+Therefore we have three major elements wwhich make up our concept, the data, the user, and the embodiment. These three elements are incorporated into the main goal of reducing stress levels at work.
+
+#### Data
+In the aspect of data we want to make sure that our user’s data is not shared, since our device will only reactiveley work with it, without saving the data. This should be an alert to the current trend of, for example insurance companies giving better offers to people who share their medical device data with them.
+
+#### User
+In our research I mentioned the fact that many health gadgets work with dubious claims assuring people benefits which cannot be scientifically proven. Our device should also call to attention that there should be a little bit more of self responsibility when it come to the promises of medical devices. People should know that not every promise is true made by the marketing team of these devices. Moreover our research showed that the stress level do go down with a good scare, we feel that medical devices could (and should!) be more playful, instead of being sort of esoteric. Not always is the most expected solution the right solution.
+
+#### Embodiment
+We like a lot the idea of working with primal instincts such as fear in order to counteract the modern man made sickness of work related stress. The psychology of fear is very well researched in academic contexts but also in the entertainment/artistic contexts such as horror movies, giving us a very good springboard. And once again hacking the body in this playful way could make our device actually helpful.
 
 ## 04.10. Thursday – Presentation, Sickness, and Tech
 ### Presentation
