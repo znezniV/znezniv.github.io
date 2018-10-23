@@ -313,7 +313,7 @@ The Moodwings vibrating bracelet, in the shape of a butterfly
 ### The Final Concept Plus Further Testing
 Therefore by connecting the dots of our findings in the testings and in our research, we came to the conclusion that our device should scare people in order to reduce their stress levels at work. I did some sketches with the horror movie jump scares techniques in mind: scaring people with quick motions and flashes of light work best. My initial idea was to have the backrest of a chair spring open, letting the user nearly fall off his/her chair. A further idea would have been to have a sort of airbag popping up and scaring the user with its motion. Unfortunately, both of these ideas would be very disruptive during work. Vinzenz finally had the idea to scare the person by shocking the body with cold, for example when people flinch when they are touched by an ice cube.
 
-![Scare Plot 2]({{ site.url }}/assets/posts/embodied/concept-plot2.jpg)
+![Scare Plot 2]({{ site.url }}/assets/posts/embodied/concept-plot2.png)
 In the 2 red circles you see the stress level going down, after the Ice Cube Test.
 
 In order to quickly validate this direction we made a very quick and dirty test: We froze some water and sat infront of our laptop shirtless and with our GSR sensor active. After some minutes of being distracted we pressed an icecube onto the kidney region (which is vey sensitive). The results were clear, the stress level shot down again (even though the plot does not look as exagerated as with the jump scare).
