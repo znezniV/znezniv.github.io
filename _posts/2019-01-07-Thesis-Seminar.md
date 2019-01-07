@@ -31,7 +31,7 @@ Also it was interesting to hear the topics of the class and how they evolved dur
 ### 20 Descriptions
 For the next exercise we were asked to make twenty descriptions of our project on post-its. That was quite hard and I cheated by adding decorative post-its to my board. Also, I was not really sure if I did the exercise as intended because I just tried to describe it as I know it and just with a very few projects.
 
-![Topic Overview]({{ site.url }}/assets/posts/thesis-seminar/thesis-seminar.jpg)
+![Topic Overview]({{ site.url }}/assets/posts/thesis-seminar/thesis-20-full.jpg)
 ![Think beyond current hegemony]({{ site.url }}/assets/posts/thesis-seminar/thesis-20-think-beyond.jpg)
 left: Plato's allegory of the cave (really bad version), right: we think of the future world as a copy of the current one.
 ![Wishes]({{ site.url }}/assets/posts/thesis-seminar/thesis-20-wishes.jpg)
