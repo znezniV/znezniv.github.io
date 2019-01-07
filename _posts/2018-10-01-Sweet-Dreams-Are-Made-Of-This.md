@@ -38,3 +38,31 @@ This applies a lot in our courses where I like to give feedback and work togethe
 
 But also in my personal life I tried to give people different perspectives in their life, especially if they struggle with sometimes. I learned that I don't want to and shouldn't give advices on what people should do. That's something they should decide on their own. But I maybe can provoke some thoughts in their mind from a different view and still giving them the chance to decide. This way I _influence_ people but not _manipulate_ them. 
 
+## 22.10.18 – Paradigm
+This theory lesson the topic was "paradigm" by our lecturer Verena Ziegler. In the context of academic writing, this was a new term for me.
+
+Basically, a paradigm is the way we perceive the world from view of the particular field we're coming from. 
+An example is the fictional story of blind men and the elephant. The story tells about blind men which are touching just a part of an elephant but each of them guesses a different animal depending which part they touch. Although, blind people probably would perform much better in real life, as a metaphor of our restricted perception it works. A designer for example sees something from a designer perspective, the engineer from his perspective, a finance guy/woman from another and the scientist from his scientific way. But according to Verena this can be an advantage which was surprising me a little bit. But the key might be that we are aware of it. And by aware, Verena meant that we should base our whole thesis on a paradigm we thought of in the beginning.
+
+### Design vs. Science
+This led her to the question what is the difference of design research and science research which I conclude in these bullets:
+- Design is more future oriented whereas science is based on a perspective on the past or the present. I need to be careful with this and of course scientists work for the future. But design has the "freedom" to think for the future and be speculative.
+- Design research includes things in the context whereas science mostly looks at a topic very isolated. Again, both of ways empower each field and the isolation is crucial for science.
+- Design research tries to improve the real world, existing situations to preferred situations. I'm most critical about this point to be honest but some bits are might true although it isn't always the case.
+
+### Research Method vs. Method and Methodology
+This was super confusing for the whole class because it was so obvious. Verena tried to explain us the difference of regular methods and research methods. Of course, research methods are for research purposes only and methods are an overall term. But a methodology is an overall approach on a meta level where a paradigm and a reason for the work is included.
+
+### Design Paradigms
+Verena showed us a great list of design paradigms which I wasn't able to fully write down into my notebook. But hopefully soon she will send us a copy of her presentation.
+- Practice Based, Design Led
+- User Centered, Human Centered
+- Historical Based, Ethnographic Based
+- Participatory Based
+- Design Science, Material Science
+- Semantics, Semiotics
+- Sustainable Design, System Thinking
+- Hermeneutical, Phenomenological, Ontological (needs more research from my side)
+  
+  ## 22.10.18 – Paradigm
+
