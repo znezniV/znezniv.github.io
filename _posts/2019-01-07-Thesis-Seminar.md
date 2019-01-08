@@ -43,3 +43,12 @@ Other Projects in related field from left to right. Cyberfolk (included into Pro
 For the rest of the afternoon and the following day, we started to work on the first bigger exercise. At first it seems pretty simple. We should define parameters on two or even three axis and create a matrix out of that. We then fill this matrix with related projects.
 
 That was difficult that day but I think that there will definitely will follow some the next day.
+
+## 08.01.2018 – Exercise I, Design Space
+I have to admit that I underestimated this day and it was pretty harsh.
+
+I continued the work of the previous day to work on the topic space. It somehow felt pretty hard because I could not find related projects. Also I had trouble to define the axis of the matrix but agreed on "applied" to "theoretic" on the x-axis and "local" to "global" on the y-axis. In particular, I was not happy with the x-axis but that's something I can change really quickly.
+
+As Karmen promised, I took the chance to have an individual discussion with her. I also tried to briefly analyze why I was having trouble working on the topic map. In my opinion it was because I am not really good in finding related work but through the discussion, Karmen said that it could be that my topic is to broad. She said that since it is a speculative topic, I first need to write a framework of my world how I imagine it and what is reality there. Not very much into detail but narrowed down to the real thing.
+
+To be honest that really confused me and I had a lot of trouble continue the work. May the next day be better. 
