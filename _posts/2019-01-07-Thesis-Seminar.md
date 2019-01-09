@@ -52,3 +52,12 @@ I continued the work of the previous day to work on the topic space. It somehow 
 As Karmen promised, I took the chance to have an individual discussion with her. I also tried to briefly analyze why I was having trouble working on the topic map. In my opinion it was because I am not really good in finding related work but through the discussion, Karmen said that it could be that my topic is to broad. She said that since it is a speculative topic, I first need to write a framework of my world how I imagine it and what is reality there. Not very much into detail but narrowed down to the real thing.
 
 To be honest that really confused me and I had a lot of trouble continue the work. May the next day be better. 
+
+## 09.01.2018 – Finish Exercise I, Start Exercise II Design Space
+As mentioned, the previous day was pretty hard. But I had the chance to talk early in the morning to Joëlle and she helped me a little to re-define the axis with me.
+
+So on the y-axis was from "Free From Wage Work (UBI)" to "Autonomous System (Tech)" and the x-axis from "Empower Citizen" to "Optimistic". Those are things that are important for me and my future project. To the optimistic part I need to add that it shouldn't be naive optimistic. In my interpretation, optimistic can be also critical. But currently, politics seems more about to be fixing problems, surviving and not destroy everything. To really change something bigger there is a common optimism on an idea needed. 
+
+This made it much easier to look for related work where I spent some more time on.
+
+But soon, I started with the second exercise; the design space. The idea was to add 50 own ideas of project. I continued with the current flow and just writing down trash but ended up with not much great stuff.  
