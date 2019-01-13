@@ -61,3 +61,28 @@ So on the y-axis was from "Free From Wage Work (UBI)" to "Autonomous System (Tec
 This made it much easier to look for related work where I spent some more time on.
 
 But soon, I started with the second exercise; the design space. The idea was to add 50 own ideas of project. I continued with the current flow and just writing down trash but ended up with not much great stuff.  
+
+## 10.01.2018
+This day we had time to continue to do some research and to work on the topic we want to focus on. I used the time to talk with my co-students to see their topic and to give and receive some feedback from then. 
+
+Nevertheless, I had big problems continuing to work and I was kind of blocked. Everybody had a 15 minutes mentoring with Joëlle planed, and to analyze why I was blocked I tried to write it down.
+
+I had three directions, I wasn't really sure if I should combine them. Automatized government, hobbyist politicians, and none-naive optimistic future thinking.
+Also I had the feeling, that I need to narrow down the topic which would help me to know where to look more specifically.
+
+The mentoring with Joëlle could have been much more productive because I did not have specific questions to ask. I was also not really comfortable enough to talk about it freely which was an ongoing process during the week. This is normal. However, it is not very productive and won't change a lot or bring me out of this situation. 
+
+Nevertheless, the mentoring was not completely useless. Every talk pushes you to be more precise and think about different stuff. Also it gave a little bit more confidence that this topic is quite relevant. I just do not know from which side I need to tackle this. Joëlle reminded me how user and field studies were often successful for me in recent projects. It can guide a lot in finding a direction. 
+
+To get some other thought, I baked a cake and made five kilos of hummus because the next day will be a special one for me.
+
+## 11.01.2018
+Doe my cake delivery, I was a little delayed in class but it also was a good excuse. In the class, Joëlle already began to explain the next and fourth exercise "10 ways of manifestation". Basically, in which form we are going to display our experience of the bachelor project. Again, this was more of a brainstorming thing in which I think I'm not good at and this doesn't help a lot either.
+
+In one hour, I really made ten different manifestations which some I did not like. But my favorite was a Tamagotchi for politics where some people have to take care of a political department in a hobbyist way. In my vision of the last week, I painted a future with an implementation of the universal basic income where most of the state and government is automatized as well as the economy and people take place in ethical positions. If mandatory or not, people should be able to participate as hobbyist politicians in a way. This time with a Tamagotchi.
+
+Later in the day, we were asked to make a plan of the following final week were we should make a so called pretotype, field research and a presentation of our pretotype. 
+It definitely would make sense for me to talk with other people to get a little out of my head. So I planed an interview.
+
+More details on the plan of the final week will follow. 
+  
