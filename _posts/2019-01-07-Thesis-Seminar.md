@@ -62,7 +62,7 @@ This made it much easier to look for related work where I spent some more time o
 
 But soon, I started with the second exercise; the design space. The idea was to add 50 own ideas of project. I continued with the current flow and just writing down trash but ended up with not much great stuff.  
 
-## 10.01.2018
+## 10.01.2018 – Continue to Shaping the Topic
 This day we had time to continue to do some research and to work on the topic we want to focus on. I used the time to talk with my co-students to see their topic and to give and receive some feedback from then. 
 
 Nevertheless, I had big problems continuing to work and I was kind of blocked. Everybody had a 15 minutes mentoring with Joëlle planed, and to analyze why I was blocked I tried to write it down.
@@ -76,7 +76,7 @@ Nevertheless, the mentoring was not completely useless. Every talk pushes you to
 
 To get some other thought, I baked a cake and made five kilos of hummus because the next day will be a special one for me.
 
-## 11.01.2018
+## 11.01.2018 – Manifestations and Planing the Next Week
 Doe my cake delivery, I was a little delayed in class but it also was a good excuse. In the class, Joëlle already began to explain the next and fourth exercise "10 ways of manifestation". Basically, in which form we are going to display our experience of the bachelor project. Again, this was more of a brainstorming thing in which I think I'm not good at and this doesn't help a lot either.
 
 In one hour, I really made ten different manifestations which some I did not like. But my favorite was a Tamagotchi for politics where some people have to take care of a political department in a hobbyist way. In my vision of the last week, I painted a future with an implementation of the universal basic income where most of the state and government is automatized as well as the economy and people take place in ethical positions. If mandatory or not, people should be able to participate as hobbyist politicians in a way. This time with a Tamagotchi.
@@ -86,3 +86,31 @@ It definitely would make sense for me to talk with other people to get a little 
 
 More details on the plan of the final week will follow. 
   
+## 14.01.2018 – First Time in the Field
+In the morning there was a short input planed by Joëlle to show us an overview of the milestones for the next few months of the bachelor project and thesis time. 
+I did not attend but could catch up by asking my class mates and checking the wiki. 
+
+Last week, I have already planed a short mentoring with Joëlle to discuss the field study just before lunch. I also took the chance to talk a little bit about the last questions I had according the milestones of the next month.
+
+In the morning before the mentoring, I prepared a few questions I could ask at todays political forum at Kosmos right after preview of the "Zwingli" movie about reformation. I asked Joëlle to take a look at them and to give me feedback about them. In general she thought that those questions are valid but very general. A good practice would be to create ten sub-questions out of a single general one. Also, I was using terms like _technology_ and _politics_ which is not precise at all and could be replaced by concrete technologic examples or _representation_, _voting_ and _participation_ for the political part. This would give me also much more interesting answers and not a general explanation. 
+
+Right after, I agreed to work together with Daniel on my bachelor project. He was researching on public space and privacy. Both highly political subjects. Still we need to find a way to connect our topics which could also help us to be more focused. 
+
+I continued to work on my questions and iterated them three times after I made few sub-questions out of them. Eventually, I had these four questions prepared:
+
+* Are we not dreaming in politics anymore and just trying to fix things very quickly?
+* What needs to be reformed for the participation of citizens in the next 20 years?
+* How would a universal basic income empower citizens in participation?
+* How would a universal basic income help people to dream an optimistic political future?
+
+I was aware that these questions would give me a general answer but it is good as a starter.
+
+Daniel and me arrived a Kosmos and drank a beer as a method to make brave enough to ask me my questions in front of all people in Kosmos after the panel discussion.
+
+I asked the question what is concretely needed to be done to increase citizen participation in politics which was highlighted as a big issue in the prior discussion. Jaqueline Fehr, the senior civil servant from the social democratic party answered me that it is an important step to include foreigners living in Switzerland to participate and that there are further processes needed in the future. Michael Köpfli of the green liberal party mentioned the political innovation lab his party established to have discussions and solutions out of the current ongoing discussion. In his opinion, it is important to start with political participations in school where kids should learn how politics work and how they can participate. 
+
+After the short question round with mostly weird questions from the audience, people left very quickly and I could not get into a discussion with other people. Maybe it was because most people have seen the movie before and finally wanted to go home. 
+
+In the discussion, it was often mentioned, that it is in particular hard today to make reforms as they called it. But in my opinion these reforms are more focused on fixing problems with existing solutions that were messed up in the last few years. 
+
+![Kosmos]({{ site.url }}/assets/posts/thesis-seminar/thesis-kosmos.jpg)
