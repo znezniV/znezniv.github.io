@@ -125,7 +125,7 @@ We did not deeply think of an appropriate location for the interview and when we
 
 The interviews were good for a first step but could have been much more precise in the questions and we should have chosen a location more precise. It was hard to go deeper just within a few minutes and with people that did not really have any relation to us or why they should participate. 
 
-Back at ZHdK, Daniel attended to a mentoring with Karmen to get more references to our topic. One was a former project of Interaction Design students which called "Pop-Up Forum" and provided tools to create and supports discussions about the idea of the universal basic income. Another method was the "Theatre of Oppression" where people played a certain political role emphasis another perspective and create awareness of that.
+Back at ZHdK, Daniel attended to a mentoring with Karmen to get more references to our topic. One was a former project of Interaction Design students which called "Pop-Up Forum" and provided tools to create and supports discussions about the idea of the universal basic income. Another method was the "Theatre of the Oppressed" where people played a certain political role emphasis another perspective and create awareness of that.
 
 Inspired by this, we continued to work on our ideas and mapped our ideas to awareness, education, citizen participation improvement and presenting alternatives. Soon we recognized that awareness is somehow present in all the other mentioned perspective and put it aside for the moment. 
 
