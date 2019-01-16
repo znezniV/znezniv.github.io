@@ -136,3 +136,5 @@ After defining our field a little bit more we went to Clemens Winkler of the Int
 Inspired by this we began to brainstorm some very concrete ideas since we need to present a pretotype to the audience on Friday.
 
 In the evening, we met a former flatmate of Daniel to talk with him about politics and concrete actions. We now know some more projects in Switzerland and additionally people we could get in touch with.
+
+![Flip chart with our ideas]({{ site.url }}/assets/posts/thesis-seminar/thesis-connect.jpg)
