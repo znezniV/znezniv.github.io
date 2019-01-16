@@ -114,3 +114,25 @@ After the short question round with mostly weird questions from the audience, pe
 In the discussion, it was often mentioned, that it is in particular hard today to make reforms as they called it. But in my opinion these reforms are more focused on fixing problems with existing solutions that were messed up in the last few years. 
 
 ![Kosmos]({{ site.url }}/assets/posts/thesis-seminar/thesis-kosmos.jpg)
+
+## 15.01.2018 – Continue to Shaping the Topic
+
+This day started with a recap of writing the blog post of the previous day since it got a bit late and sleep is still a priority.
+
+Before we went home from the Kosmos event the day before, we agreed to do another interview session and prepare questions what we did then. The interview had three sections about public space, privacy (in the public space) and political participation. 
+
+We did not deeply think of an appropriate location for the interview and when we went out, we noticed that it was really hard to find people in "Kreis 5", especially when it was could. Still we were able to ask a few people and received very diverse answers. One person was not interested to talk with other people about politics because it would give a wrong atmosphere and probably also judgement (which was not directly mentioned). Another person was not at all worried about any issues with privacy and was even happy that Google was "surveilling" him to bring the advantage of better fitting search results. To our surprise, we also had the chance to talk with a politician that was very interested in the topic of privacy. The last person was kind of interested into politics but never really felt involved in it but said that only through different opinions had the urge to take part.
+
+The interviews were good for a first step but could have been much more precise in the questions and we should have chosen a location more precise. It was hard to go deeper just within a few minutes and with people that did not really have any relation to us or why they should participate. 
+
+Back at ZHdK, Daniel attended to a mentoring with Karmen to get more references to our topic. One was a former project of Interaction Design students which called "Pop-Up Forum" and provided tools to create and supports discussions about the idea of the universal basic income. Another method was the "Theatre of Oppression" where people played a certain political role emphasis another perspective and create awareness of that.
+
+Inspired by this, we continued to work on our ideas and mapped our ideas to awareness, education, citizen participation improvement and presenting alternatives. Soon we recognized that awareness is somehow present in all the other mentioned perspective and put it aside for the moment. 
+
+We came up with the research question "How might we enable the younger generation to be more politically participatory?".
+
+After defining our field a little bit more we went to Clemens Winkler of the Interaction Design Lab at ZHdK to ask him about his opinion and to get another perspective. He liked our idea but showed us other ways of political participation such as "Forensic Architecture" and "Zentrum für politische Schönheit". Forensic Architecture for example was involved in analyzing gas attacks in Syria with video material provided from the Russian the governmental news of Syria. The Zentrum für politische Schönheit on the other hand, has a more satirical approach in politics. In one project they created a website images of Nazis in a demonstration in Chemnitz and asked people to denounce them to their employees. But all of the data was fake but people that attended the demonstration used the search bar to check if they, their family members, and friends were on the list which eventually created a big map of dataset which was then handed to the police. 
+
+Inspired by this we began to brainstorm some very concrete ideas since we need to present a pretotype to the audience on Friday.
+
+In the evening, we met a former flatmate of Daniel to talk with him about politics and concrete actions. We now know some more projects in Switzerland and additionally people we could get in touch with.
