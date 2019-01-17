@@ -131,10 +131,27 @@ Inspired by this, we continued to work on our ideas and mapped our ideas to awar
 
 We came up with the research question "How might we enable the younger generation to be more politically participatory?".
 
-After defining our field a little bit more we went to Clemens Winkler of the Interaction Design Lab at ZHdK to ask him about his opinion and to get another perspective. He liked our idea but showed us other ways of political participation such as "Forensic Architecture" and "Zentrum für politische Schönheit". Forensic Architecture for example was involved in analyzing gas attacks in Syria with video material provided from the Russian the governmental news of Syria. The Zentrum für politische Schönheit on the other hand, has a more satirical approach in politics. In one project they created a website images of Nazis in a demonstration in Chemnitz and asked people to denounce them to their employees. But all of the data was fake but people that attended the demonstration used the search bar to check if they, their family members, and friends were on the list which eventually created a big map of dataset which was then handed to the police. 
+After defining our field a little bit more we went to Clemens Winkler of the Interaction Design Lab at ZHdK to ask him about his opinion and to get another perspective. He liked our idea but showed us other ways of political participation such as "Forensic Architecture" and "Zentrum für politische Schönheit". Forensic Architecture for example was involved in analyzing gas attacks in Syria with video material provided from the Russian and the governmental news of Syria. The Zentrum für politische Schönheit on the other hand, has a more satirical approach in politics. In one project they created a website images of Nazis in a demonstration in Chemnitz and asked people to denounce them to their employees. But all of the data was fake but people that attended the demonstration used the search bar to check if they, their family members, and friends were on the list which eventually created a big map of dataset which was then handed to the police. 
 
 Inspired by this we began to brainstorm some very concrete ideas since we need to present a pretotype to the audience on Friday.
 
 In the evening, we met a former flatmate of Daniel to talk with him about politics and concrete actions. We now know some more projects in Switzerland and additionally people we could get in touch with.
 
 ![Flip chart with our ideas]({{ site.url }}/assets/posts/thesis-seminar/thesis-connect.jpg)
+
+## 16.01.2018 – Narrow Down the Concept
+Since, we discussing until late at night, we continued to write the blog on the next morning. 
+
+After the blog, we started to discuss about our project and how we can get a consens out of it. We already agreed on the research question and made following categories out of the project we researched: systematic change (of politics), optimization, digital guerilla actions and coolify (trying to make politics cool). First, of all we tried to put the related work into those categories and then in a second step add our own ideas there.
+
+The research questions was a little modified. Since urban areas such as Zurich have many foreign residents we wanted to enable them to participate in politics as well. But already the term participation in politics needs a definition.
+
+So one of our ideas was to place a mailbox in public spaces where residents can put their demands. These text will then be published and put onto small polling stations were people can vote for example in the tram. The results then will be published on a screen or on social media platforms and so on. The idea was to not only create a deeper participation than just voting so people could also bring in their own things that are important to them. We were not really sure if a simple yes or no question voting was appropriate or if it would be a better choice with a slider of importance. Also, we wanted to chose more carefully with the location which is a crucial thing.
+
+![Polling Station Sketch]({{ site.url }}/assets/posts/thesis-seminar/thesis-polling.jpg)
+
+In the mentoring however, the polling station was criticized – for good reasons. On one hand, it is too easy to just take voting as a way of expressing political participation. There are many other ways that might are not that obvious. On the other hand, simply yes or no is something like a like button. Especially, if you see how other people voted. It brings a lot of biases with it which can be dangerous.  
+
+Thanks to this mentoring, we were inspired to think about other ideas and about the presentation as well. We used our brainstorm stroll methodology to get into new ideas. This method is great because you have enough of stimulation to not get bored and getting stressed while trying to stay focused but also not too much of distraction you would have at another place.
+
+So we quickly generated new ideas how we could approach a higher political participation among the young and foreign residents. But more to come...
