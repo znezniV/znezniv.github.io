@@ -72,4 +72,4 @@ The third one shows our initial ideas of crystals which you can place on an obje
 ![Crystalclear Zoetrope]({{ site.url }}/assets/posts/zoetrope/crystalclear.gif)
 
 ## Conclusion
-The end results are looking quit nice. But it was a lot of distraction and loss of quality and creativity caused by our messy methodology. 
+The end results are looking quite nice. But it was a lot of distraction and loss of quality and creativity caused by our messy methodology. 
